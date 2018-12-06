@@ -7,7 +7,7 @@
 <!--<![endif]-->
 
 <head>
-	<title>Nabe - HR Recruiting Agency HTML Template</title>
+	<title>Invenir - HR Recruiting Agency HTML Template</title>
 	<meta charset="utf-8">
 	<!--[if IE]>
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -102,7 +102,7 @@
 							</div>
 						</div>
 						<div class="col-lg-4">
-							<button class="btn-outline-darkgrey  d-none d-lg-block">¿BUSCAS PERSONAL?</button>
+							<button class="btn-outline-darkgrey  d-none d-lg-block">¿Buscas personal?</button>
 						</div>
 					</div>
 				</div>
@@ -542,121 +542,39 @@
 
 			</header>
 
-			<section class="page_slider">
-				<div class=" flexslider" data-nav="true" data-dots="false">
-					<ul class="slides">
-						<li class="ds text-center">
-							<img src="images/slide01.jpg" alt="">
-							<div class="container">
-								<div class="row">
-									<div class="col-sm-12">
-										<div class="intro_layers_wrapper">
-											<div class="intro_layers">
-												<div class="intro_layer" data-animation="fadeInLeft">
-													<h3 class="intro_before_featured_word">
-														TE PODEMOS AYUDAR A ENCONTRAR
-													</h3>
-												</div>
-												<div class="intro_layer" data-animation="fadeInRight">
-													<h2 class="text-uppercase intro_featured_word">
-														EL PUESTO INDICADO
-													</h2>
-												</div>
-												<div class="intro_layer" data-animation="fadeIn">
-													<div class="d-inline-block">
-														<button type="button" class="btn btn-outline-maincolor center-block" data-animation="fadeIn">SUSCRÍBETE A NUESTRAS NOTICIAS</button>
-													</div>
-												</div>
-											</div>
-											<!-- eof .intro_layers -->
-										</div>
-										<!-- eof .intro_layers_wrapper -->
+			<section class="page_slider cs text-center">
+				<img src="images/slide01.jpg" alt="">
+				<div class="container-fluid">
+					<div class="row">
+						<div class="col-sm-12">
+							<div class="intro_layers_wrapper">
+								<div class="intro_layers">
+									<div class="intro_layer" data-animation="fadeInLeft">
+										<h3 class="intro_before_featured_word">
+											TE PODEMOS AYUDAR A ENCONTRAR
+										</h3>
 									</div>
-									<!-- eof .col-* -->
-								</div>
-								<!-- eof .row -->
-							</div>
-							<!-- eof .container -->
-						</li>
-						<li class="ds text-center">
-							<img src="images/slide02.jpg" alt="">
-							<div class="container">
-								<div class="row">
-									<div class="col-sm-12">
-										<div class="intro_layers_wrapper">
-											<div class="intro_layers">
-												<div class="intro_layer" data-animation="pullUp">
-													<h3 class="intro_before_featured_word">
-														TE PODEMOS AYUDAR A ENCONTRAR
-													</h3>
-												</div>
-												<div class="intro_layer" data-animation="pullDown">
-													<h2 class="text-uppercase intro_featured_word">
-														EL PUESTO INDICADO
-													</h2>
-												</div>
-												<div class="intro_layer" data-animation="fadeIn">
-													<div class="d-inline-block">
-														<button type="button" class="btn btn-outline-maincolor center-block" data-animation="fadeIn">SUSCRÍBETE A NUESTRAS NOTICIAS</button>
-													</div>
-												</div>
-											</div>
-											<!-- eof .intro_layers -->
-										</div>
-										<!-- eof .intro_layers_wrapper -->
+									<div class="intro_layer" data-animation="fadeInRight">
+										<h2 class="text-uppercase intro_featured_word">
+											EL PUESTO INDICADO
+										</h2>
 									</div>
-									<!-- eof .col-* -->
-								</div>
-								<!-- eof .row -->
-							</div>
-							<!-- eof .container -->
-						</li>
-						<li class="ds text-center">
-							<img src="images/slide03.jpg" alt="">
-							<div class="container">
-								<div class="row">
-									<div class="col-sm-12">
-										<div class="intro_layers_wrapper">
-											<div class="intro_layers">
-												<div class="intro_layer" data-animation="pullDown">
-													<h3 class="intro_before_featured_word">
-														TE PODEMOS AYUDAR A ENCONTRAR
-													</h3>
-												</div>
-												<div class="intro_layer" data-animation="pullUp">
-													<h2 class="text-uppercase intro_featured_word">
-														EL PUESTO INDICADO
-													</h2>
-												</div>
-												<div class="intro_layer" data-animation="fadeIn">
-													<div class="d-inline-block">
-														<button type="button" class="btn btn-outline-maincolor center-block">SUSCRÍBETE A NUESTRAS NOTICIAS</button>
-													</div>
-												</div>
-											</div>
-											<!-- eof .intro_layers -->
+									<div class="intro_layer" data-animation="fadeIn">
+										<div class="d-inline-block">
+											<button type="button" class="btn btn-outline-maincolor center-block" data-animation="fadeIn">SUSCRÍBETE A NUESTRAS NOTICIAS</button>
 										</div>
-										<!-- eof .intro_layers_wrapper -->
 									</div>
-									<!-- eof .col-* -->
 								</div>
-								<!-- eof .row -->
+								<!-- eof .intro_layers -->
 							</div>
-							<!-- eof .container -->
-						</li>
-					</ul>
-					<ul class="flex-direction-nav">
-						<li class="flex-nav-prev">
-							<a class="flex-prev" href="#">&gt;</a>
-						</li>
-						<li class="flex-nav-next">
-							<a class="flex-next" href="#">&lt;</a>
-						</li>
-					</ul>
+							<!-- eof .intro_layers_wrapper -->
+						</div>
+						<!-- eof .col-* -->
+					</div>
+					<!-- eof .row -->
 				</div>
-				<!-- eof flexslider -->
+				<!-- eof .container-fluid -->
 			</section>
-
 
 			<section class="ds slider-bottomline d-none d-xl-block py-50">
 				<div class="container">
@@ -700,9 +618,9 @@
 					<div class="row">
 						<div class="col-md-12 col-lg-6 animate" data-animation="slideInLeft">
 							<div class="heading-about">
-								<p><h2>25</h2></p>
-								<br>
-								<p><h4><font style="font-weight: bold; color: gray; margin-left: -160px;">Años de</font> <font style="font-weight: bold; color: navy;">Experiencia</font></h4></p>
+								<h2>25</h2>
+								<br><br><br><br>
+								<h4><font style="font-weight: bold; color: gray; margin-left: -160px;">Años de</font> <font style="font-weight: bold; color: navy;">Experiencia</font></h4>
 								<p>
 									We believe in the value that our functions add to a business. We feel that this specialist part of HR is often unrecognised for its contribution to the profitability and success of a business.
 								</p>
@@ -747,54 +665,52 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-sm-12 contact-header heading text-center">
-							<h4>
-								ENVÍANOS TU CV
-							</h4>
+							<h4>ENVÍANOS TU CV</h4>
 						</div>
 						<div class="px-30 ds-form">
 							<form class="ds contact-form c-mb-20">
 								<div class="row">
 									<div class="col-sm-6">
 										<div class="col-c-mb-60 form-group has-placeholder">
-											<label for="name">NOMBRE
+											<label for="name">Full Name
 												<span class="required">*</span>
 											</label>
-											<input type="text" aria-required="true" size="200" value="" name="your-name" id="name" class="form-control" placeholder="NOMBRE">
+											<input type="text" aria-required="true" size="200" value="" name="your-name" id="name" class="form-control" placeholder="Nombre">
 										</div>
 										<div class="col-c-mb-60 form-group has-placeholder">
-											<label for="text">TELÉFONO
+											<label for="text">Phone number
 												<span class="required">*</span>
 											</label>
-											<input type="text" aria-required="true" size="200" value="" name="text" id="text" class="form-control" placeholder="TELÉFONO">
+											<input type="text" aria-required="true" size="200" value="" name="text" id="text" class="form-control" placeholder="Teléfono">
 										</div>
 										<div class="col-c-mb-60 form-group has-placeholder">
-											<label for="email">EMAIL
+											<label for="email">Email address
 												<span class="required">*</span>
 											</label>
-											<input type="email" aria-required="true" size="200" value="" name="your-email" id="email" class="form-control" placeholder="EMAIL">
+											<input type="email" aria-required="true" size="200" value="" name="your-email" id="email" class="form-control" placeholder="Email">
 										</div>
 										<div class="col-c-mb-60 form-group has-placeholder">
-											<label for="text">PUESTO SOLICITADO
+											<label for="text">Job sector
 												<span class="required">*</span>
 											</label>
-											<input type="text" aria-required="true" size="200" value="" name="text" id="text" class="form-control" placeholder="PUESTO SOLICITADO">
+											<input type="text" aria-required="true" size="200" value="" name="text" id="text" class="form-control" placeholder="Puesto solicitado">
 										</div>
 										<div class="col-c-mb-60 form-group">
 											<input type="file" class="custom-file-input button" id="validatedCustomFile">
-											<label class="custom-file-label" for="validatedCustomFile">ADJUNTAR CV EN PDF</label>
+											<label class="custom-file-label" for="validatedCustomFile">Adjuntar CV en PDF</label>
 										</div>
 									</div>
 									<div class="col-sm-6">
 										<div class="form-group has-placeholder">
 											<label for="message">Comment</label>
-											<textarea aria-required="true" rows="6" cols="40" name="message" id="message" class="form-control" placeholder="COMENTARIOS ADICIONALES"></textarea>
+											<textarea aria-required="true" rows="6" cols="40" name="message" id="message" class="form-control" placeholder="Comentarios adicionales"></textarea>
 
 										</div>
 									</div>
 								</div>
 								<div class="col-sm-12">
 									<div class="form-group text-center">
-										<button type="submit" id="contact_form_submit" name="contact_submit" class="button">ENVIAR</button>
+										<button type="submit" id="contact_form_submit" name="contact_submit" class="button">Enviar</button>
 									</div>
 								</div>
 							</form>
