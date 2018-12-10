@@ -14690,7 +14690,7 @@ body.active-side-header.slide-right .page_header_side {
 	}
 
 	.page_slider button {
-		font-size: 9px;
+		font-size: small;
 		min-width: 130px;
 		padding: 13px 18px;
 	}
