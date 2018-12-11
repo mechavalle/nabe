@@ -7,7 +7,7 @@
 <!--<![endif]-->
 
 <head>
-	<title>Invenir - HR Recruiting Agency HTML Template</title>
+	<title>Nabe - Evaluaciones</title>
 	<meta charset="utf-8">
 	<!--[if IE]>
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -76,7 +76,7 @@
 			<?php  include("header.php"); ?>
 
 			<?php  
-        		$menu="solucionesrh";
+        		$menu="evaluaciones";
         		include("navbar.php");
     		?> 
 
@@ -88,7 +88,7 @@
 							<h1 class="">Evaluaciones</h1>
 							<ol class="breadcrumb">
 								<li class="breadcrumb-item">
-									<a href="./">Home</a>
+									<a href="./index.php">Home</a>
 								</li>
 								<li class="breadcrumb-item active">
 									Evaluaciones

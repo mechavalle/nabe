@@ -7,7 +7,7 @@
 <!--<![endif]-->
 
 <head>
-	<title>Invenir - HR Recruiting Agency HTML Template</title>
+	<title>Nabe - Soluciones RH</title>
 	<meta charset="utf-8">
 	<!--[if IE]>
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">

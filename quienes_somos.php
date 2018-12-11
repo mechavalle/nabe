@@ -7,7 +7,7 @@
 <!--<![endif]-->
 
 <head>
-	<title>Invenir - HR Recruiting Agency HTML Template</title>
+	<title>Nabe - Quiénes Somos</title>
 	<meta charset="utf-8">
 	<!--[if IE]>
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -76,7 +76,7 @@
 			<?php  include("header.php"); ?>
 
 			<?php  
-			    $menu="solucionesrh";
+			    $menu="quienessomos";
 			    include("navbar.php");
 			?> 
 
@@ -88,7 +88,7 @@
 							<h1 class="">Quiénes Somos</h1>
 							<ol class="breadcrumb">
 								<li class="breadcrumb-item">
-									<a href="./">Home</a>
+									<a href="./index.php">Home</a>
 								</li>
 								<li class="breadcrumb-item active">
 									Quiénes Somos
@@ -156,7 +156,7 @@
 							</div>
 							<div id="collapse02" class="collapse" role="tabpanel" aria-labelledby="collapse02_header" data-parent="#accordion01">
 								<div class="card-body">
-									Confirming your acceptance guarantees the job is yours. Usually there are other candidates in the process at this point so ensure you are committed.
+									Ser una empresa líder, considerados como socios comerciales por nuestros clientes, contribuyendo en su cadena de suministro de Capital Humano, brindando un servicio integral, eficiente e innovador.S
 								</div>
 							</div>
 
@@ -169,7 +169,7 @@
 							</div>
 							<div id="collapse03" class="collapse" role="tabpanel" aria-labelledby="collapse03_header" data-parent="#accordion01">
 								<div class="card-body">
-									Confirming your acceptance guarantees the job is yours. Usually there are other candidates in the process at this point so ensure you are committed.
+									Los principales valores de la marca son: responsabilidad, ética profesional, compromiso, lealtad, honorabilidad, transparencia, integridad, honestidad y entusiasmo.
 								</div>
 							</div>
 
@@ -182,7 +182,7 @@
 							</div>
 							<div id="collapse04" class="collapse" role="tabpanel" aria-labelledby="collapse04_header" data-parent="#accordion01">
 								<div class="card-body">
-									Confirming your acceptance guarantees the job is yours. Usually there are other candidates in the process at this point so ensure you are committed.
+									Contamos con 4 sucursales en el país, las cuales están ubicadas en Estado de México, León Gto., Guadalajara y Monterrey, Corporativo en Ciudad de México.
 								</div>
 							</div>
 
