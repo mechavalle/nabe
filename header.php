@@ -5,10 +5,10 @@
 				<div class="col-lg-4">
 					<div class="d-lg-flex justify-content-lg-end align-items-lg-center">
 						<span class="social-icons top">
-							<a href="#" class="fa fa-facebook " title="facebook"></a>
-							<a href="#" class="fa fa-twitter " title="twitter"></a>
-							<a href="#" class="fa fa-google " title="google"></a>
-							<a href="#" class="fa fa-linkedin " title="linkedin"></a>
+							<a href="javascript:window.open('https://www.facebook.com/NABE, Soluciones en Capital Humano','');void 0" class="fa fa-facebook" title="facebook"></a>
+							<a href="javascript:window.open('https://www.twitter.com/NABE, Soluciones en Capital Humano','');void 0" class="fa fa-twitter" title="twitter"></a>
+							<a href="javascript:window.open('https://plus.google.com/NABE, Soluciones en Capital Humano','');void 0" class="fa fa-google-plus" title="google+"></a>
+							<a href="javascript:window.open('https://www.linkedin.com/NABE, Soluciones en Capital Humano','');void 0" class="fa fa-linkedin" title="linkedin"></a>
 						</span>
 					</div>
 				</div>
@@ -16,7 +16,7 @@
 					<div class="text-center">
 						<div class="header_logo_center">
 							<a href="./" class="logo">
-								<img src="images/logo.png" alt="">
+								<img src="images/logotipo.png" alt="">
 							</a>
 						</div>
 						<!-- eof .header_left_logo -->

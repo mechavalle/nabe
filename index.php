@@ -8,6 +8,7 @@
 
 <head>
 	<title>Nabe - Soluciones RH</title>
+	<link rel="icon" type="image/x-icon" href="images/logo.png" />
 	<meta charset="utf-8">
 	<!--[if IE]>
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -158,7 +159,7 @@
 							<div class="heading-about">
 								<h2>23</h2>
 								<br><br><br><br>
-								<h4><font style="font-weight: bold; color: gray; margin-left: -160px;">Años de</font> <font style="font-weight: bold; color: navy;">Experiencia</font></h4>
+								<h4><font style="font-weight: bold; color: gray; margin-left: -160px;">Años de</font> <font style="font-weight: bold; color: #020246;">Experiencia</font></h4>
 								<p>
 									Somos una empresa de profesionales con 23 años de experiencia orientada a ofrecer soluciones integrales en Capital Humano, conformada por
 									profesionales certificados, dedicados a satisfacer las necesidades específicas de nuestros clientes.

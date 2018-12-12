@@ -1199,7 +1199,7 @@ textarea.contact {
 }
 
 [role="tablist"] .card-header a {
-	background-color: navy;
+	background-color: #020246;
 	box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.2);
 	color: #fff;
 	display: block;
@@ -1219,7 +1219,7 @@ textarea.contact {
 }
 
 [role="tablist"] .card-header a.collapsed {
-	background-color: navy;
+	background-color: #3b5998;
 	color: #fff;
 }
 
@@ -3909,8 +3909,8 @@ py-* - same value for top and for bottom padding
 }
 
 .s-py-30 > [class*='container'] {
-	padding-bottom: 30px;
-	padding-top: 30px;
+	padding-bottom: 10px;
+	padding-top: 10px;
 }
 
 .s-py-50 > [class*='container'] {
@@ -4524,8 +4524,8 @@ py-* - same value for top and for bottom padding
 	}
 
 	.s-py-lg-130 > [class*='container'] {
-		padding-bottom: 130px;
-		padding-top: 130px;
+		padding-bottom: 50px;
+		padding-top: 50px;
 	}
 }
 
@@ -6223,7 +6223,7 @@ img {
 	background: -webkit-gradient(linear, left top, right top, color-stop(0%, #55bce7), color-stop(100%, #736fb3));
 	background: -webkit-linear-gradient(left, #55bce7 0%, #736fb3 100%);
 	background: -webkit-linear-gradient(top, #55bce7 0%, #736fb3 100%);
-	background: linear-gradient(to bottom, #55bce7 0%, #736fb3 100%);
+	background: linear-gradient(to bottom, #3b5998 0%, #3b5998 100%);
 	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="$colorMain", endColorstr="$colorMain2", GradientType=1);
 	opacity: 0.5;
 }
@@ -6231,7 +6231,7 @@ img {
 .gradientvertical-background:before {
 	background: #55bce7;
 	/* Old browsers */
-	background: -webkit-linear-gradient(top, darkblue 0%, navy 100%);
+	background: -webkit-linear-gradient(top, #3b5998 0%, #020246 100%);
 	background: linear-gradient(to bottom, navy 0%, darkblue} 100%);
 	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="$colorMain", endColorstr="$colorMain2", GradientType=0);
 }
@@ -14003,7 +14003,7 @@ a.logo {
 
 a.logo img {
 	display: inline-block;
-	max-height: 95px;
+	max-height: 120px;
 }
 
 a.logo .logo-text {
@@ -16826,7 +16826,7 @@ footer .media a:hover {
 
 .about .heading-about h2 {
 	background: -webkit-linear-gradient(#55bce7, #736fb3);
-	background: linear-gradient(darkblue, navy);
+	background: linear-gradient(darkblue, #020246);
 	-webkit-background-clip: text;
 	float: left;
 	font-size: 140px;

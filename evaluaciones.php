@@ -8,6 +8,7 @@
 
 <head>
 	<title>Nabe - Evaluaciones</title>
+	<link rel="icon" type="image/x-icon" href="images/logo.png" />
 	<meta charset="utf-8">
 	<!--[if IE]>
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -108,7 +109,7 @@
 						<div class="col-md-6 col-sm-4">
 							<div class="icon-box text-center">
 								<div class="icon-styled fs-56">
-									<i class="color-main2 fa fa-clipboard"></i>
+									<img style="max-width: 30%;" src="images/test.png">
 								</div>
 								<h6>
 									<b><a href="service-single.html">EVALUACIONES PSICOMÉTRICAS 
@@ -123,7 +124,7 @@
 						<div class="col-md-6 col-sm-4">
 							<div class="icon-box text-center">
 								<div class="icon-styled fs-56">
-									<i class="color-main2 fa fa-money"></i>
+									<img style="max-width: 30%;" src="images/finance.png">
 								</div>
 
 								<h6>
@@ -136,7 +137,7 @@
 						<div class="col-md-6 col-sm-4">
 							<div class="icon-box text-center">
 								<div class="icon-styled fs-56">
-									<i class="color-main2 fa fa-briefcase"></i>
+									<img style="max-width: 30%;" src="images/safety.png">
 								</div>
 								<h6>
 									<b><a href="service-single.html">SEGURIDAD E HIGIENE</a></b>
@@ -149,9 +150,8 @@
 
 							<div class="icon-box text-center">
 								<div class="icon-styled fs-56">
-									<i class="color-main2 fa fa-handshake-o"></i>
+									<img style="max-width: 30%;" src="images/team.png">
 								</div>
-
 								<h6>
 									<b><a href="service-single.html">CLIMA LABORAL</a></b>
 								</h6>

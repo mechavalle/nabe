@@ -33,7 +33,7 @@
 				<div class="text-center">
 					<div class="header_logo_center footer-logo-ds">
 						<a href="./" class="logo">
-							<img src="images/logo.png" alt="">
+							<img src="images/logotipo_blanco.png" alt="">
 						</a>
 					</div>
 					<!-- eof .header_left_logo -->
@@ -44,7 +44,7 @@
 				<div class="widget">
 					<div class="media">
 						<i class="mx-10 color-main fa fa-map-marker"></i>
-						4518 Spirit Drive, Deland, FL 32720
+						Nicolás San Juan #1109 <br>Colonia del Valle Alcaldía Benito Juárez <br>C.P. 03100, CDMX
 					</div>
 					<div class="media">
 						<i class="mx-10 color-main fa fa-phone"></i>
@@ -56,9 +56,9 @@
 					</div>
 				</div>
 				<div class="author-social">
-					<a href="#" class="fa fa-facebook color-bg-icon rounded-icon"></a>
-					<a href="#" class="fa fa-twitter color-bg-icon rounded-icon"></a>
-					<a href="#" class="fa fa-google color-bg-icon rounded-icon"></a>
+					<a href="javascript:window.open('https://www.facebook.com/NABE, Soluciones en Capital Humano','');void 0" class="fa fa-facebook color-bg-icon rounded-icon" title="facebook"></a>
+					<a href="javascript:window.open('https://www.twitter.com/NABE, Soluciones en Capital Humano','');void 0" class="fa fa-twitter color-bg-icon rounded-icon" title="twitter"></a>
+					<a href="javascript:window.open('https://www.google.com/NABE, Soluciones en Capital Humano','');void 0" class="fa fa-google-plus color-bg-icon rounded-icon" title="google+"></a>
 				</div>
 			</div>
 			<div class="footer col-md-4 text-center animate" data-animation="fadeInUp">
