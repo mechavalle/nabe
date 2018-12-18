@@ -114,7 +114,7 @@
 											<label for="name">Full Name
 												<span class="required">*</span>
 											</label>
-											<input type="text" aria-required="true" size="30" value="" name="name" id="name" class="form-control" placeholder="Name">
+											<input type="text" aria-required="true" size="30" value="" name="name" id="name" class="form-control" placeholder="Nombre">
 										</div>
 									</div>
 
@@ -134,7 +134,7 @@
 											<label for="phone">Phone
 												<span class="required">*</span>
 											</label>
-											<input type="text" aria-required="true" size="30" value="" name="phone" id="phone" class="form-control" placeholder="Phone">
+											<input type="text" aria-required="true" size="30" value="" name="phone" id="phone" class="form-control" placeholder="Teléfono">
 										</div>
 									</div>
 
@@ -143,7 +143,7 @@
 											<label for="subject">Subject
 												<span class="required">*</span>
 											</label>
-											<input type="text" aria-required="true" size="30" value="" name="subject" id="subject" class="form-control" placeholder="Subject">
+											<input type="text" aria-required="true" size="30" value="" name="subject" id="subject" class="form-control" placeholder="Asunto">
 										</div>
 									</div>
 								</div>
@@ -152,7 +152,7 @@
 									<div class="col-sm-12">
 										<div class="ds form-group has-placeholder">
 											<label for="message">Message</label>
-											<textarea aria-required="true" rows="6" cols="4" name="message" id="message" class="form-control" placeholder="Message"></textarea>
+											<textarea aria-required="true" rows="6" cols="4" name="message" id="message" class="form-control" placeholder="Mensaje"></textarea>
 										</div>
 									</div>
 								</div>
@@ -161,7 +161,7 @@
 									<div class="col-sm-12 text-center mt-10">
 										<div class="form-group">
 											<button type="submit" id="contact_form_submit" name="contact_submit" class="btn-color">
-												Send Now
+												Enviar
 											</button>
 										</div>
 									</div>
@@ -204,7 +204,7 @@
 									Horario de Atención
 								</p>
 								<h5>
-									<b>9:00 a 19:00 hrs.</b>
+									<b>Lunes - Viernes <br>9:00 a 19:00 hrs.</b>
 								</h5>
 							</div>
 						</div>

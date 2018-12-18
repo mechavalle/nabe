@@ -9,19 +9,19 @@
 							<a href="#">Inicio</a>
 						</li>
 						<li class="menu1">
-							<a>Soluciones RH</a>
+							<a  href="#">Soluciones RH</a>
 						</li>
 						<li>
 							<a href="#">Vacantes</a>
 						</li>
 						<li class="menu1">
-							<a>Evaluaciones</a>
+							<a  href="#">Evaluaciones</a>
 						</li>
 						<li>
 							<a href="#">Tecnología</a>
 						</li>
 						<li class="menu1">
-							<a>Clientes</a>
+							<a  href="#">Clientes</a>
 						</li>
 						<li class="border-bottom-0">
 							<a href="#">Contacto</a>
@@ -44,15 +44,15 @@
 				<div class="widget">
 					<div class="media">
 						<i class="mx-10 color-main fa fa-map-marker"></i>
-						Nicolás San Juan #1109 <br>Colonia del Valle Alcaldía Benito Juárez <br>C.P. 03100, CDMX
+						Nicolás San Juan #1109 <br>Colonia del Valle, Alcaldía Benito Juárez <br>C.P. 03100, CDMX
 					</div>
 					<div class="media">
 						<i class="mx-10 color-main fa fa-phone"></i>
-						 <a href="callto:+5524 4666">(55) 5524 4666</a>
+						 <a href="callto:5524 4666">(55) 5524 4666</a>
 					</div>
 					<div class="media text-center link">
 						<i class="mx-10 text-center color-main fa fa-envelope"></i>
-						<a href="mailto:info@fernandacampillo.com">soluciones.empresariales@nabese.com</a>
+						<a href="mailto:soluciones.empresariales@nabese.com">soluciones.empresariales@nabese.com</a>
 					</div>
 				</div>
 				<div class="author-social">

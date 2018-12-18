@@ -153,7 +153,7 @@
 									<img style="max-width: 30%;" src="images/team.png">
 								</div>
 								<h6>
-									<b><a href="service-single.html">CLIMA LABORAL</a></b>
+									<b><a href="clima_laboral.php">CLIMA LABORAL</a></b>
 								</h6>
 							</div>
 						</div>

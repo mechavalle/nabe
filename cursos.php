@@ -7,8 +7,7 @@
 <!--<![endif]-->
 
 <head>
-	<title>Nabe - Cursos</title>
-	<link rel="icon" type="image/x-icon" href="images/logo.png" />
+	<title>Invenir - HR Recruiting Agency HTML Template</title>
 	<meta charset="utf-8">
 	<!--[if IE]>
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -68,12 +67,12 @@
 		</div>
 	</div>
 	<!-- eof .modal -->
-	
+
 	<!-- wrappers for visual page editor and boxed version of template -->
 	<div id="canvas">
 		<div id="box_wrapper">
 			<!-- template sections -->
-
+	
 			<?php  include("header.php"); ?>
 
 			<?php  
@@ -89,7 +88,7 @@
 							<h1 class="">Cursos</h1>
 							<ol class="breadcrumb">
 								<li class="breadcrumb-item">
-									<a href="./index.php">Home</a>
+									<a href="./">Home</a>
 								</li>
 								<li class="breadcrumb-item active">
 									Cursos
@@ -101,38 +100,32 @@
 				</div>
 			</section>
 
-			<section class="ls s-py-50 c-mb-30">
+			<section class="ls s-py-75 s-py-lg-130">
 				<div class="container">
+					<div class="d-none d-lg-block divider-30"></div>
 					<div class="row">
-						<div class="d-none d-lg-block divider-110"></div>
-						<div class="col-12 c-gutter-50">
-							<div class="row ">
-								<div class="col-lg-5">
-									<div class="vertical-item box-shadow content-padding text-center">
-										<div class="item-media">
-											<img src="images/2002.jpg" alt="">
-										</div>
-									</div>
-								</div>
-								<div class="col-lg-7 col-lg-offset-1">
-									<p>
-										Nos preocupamos por la formación personal, por eso tenemos programas de capacitación desarrollados a partir de las 
-										necesidades laborales de nuestros empleados.
-									</p>
-									<p>
-										Porque sabemos que la capacitación es una inversión que resulta en mejorar la productividad de tu empresa, realizamos
-										evaluaciones a los cursos que se imparten para así ofrecer capacitación cada vez con mayor calidad y con mejores contenidos.
-									</p>
-									<p>
-										Todos nuestros instructores están registrados antes las autoridades laborales como: Secretaría de Trabajo y Previsión Social, Protección Civil, etc.
-									</p>
-								</div>
+						<div class="col-lg-6 animate" data-animation="fadeInLeft">
+							<img src="images/2002.jpg" alt="">
+						</div>
+						<div class="single-service divider-30 col-lg-6 text-left animate" data-animation="fadeInRight">
+							<div class="content mx-30">
+								<h4 class="single-service"></h4>
+								<p>
+									Nos preocupamos por la formación del personal, por eso tenemos programas de capacitación desarrollados a partir de las necesidades laborales de nuestros empleados. 
+								</p>
+								<p>
+									Porque sabemos que la capacitación es una inversión que resulta en mejorar la productividad de tu empresa, realizamos evaluaciones a los cursos que se imparten para así ofrecer capacitación cada vez con mayor calidad y con mejores contenidos. 
+								</p>
+								<p>
+									Todos nuestros instructores están registrados ante las autoridades laborales como: Secretaría de Trabajo y Previsión Social, Protección Civil, etc. 
+								</p>
 							</div>
 						</div>
-						<div class="d-none d-lg-block divider-40"></div>
 					</div>
+					<div class="d-none d-lg-block divider-20"></div>
 				</div>
 			</section>
+
 		</div>
 		<!-- eof #box_wrapper -->
 	</div>

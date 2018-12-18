@@ -144,7 +144,7 @@
 									HORARIO DE ATENCIÓN
 								</p>
 								<h5>
-									<b>9:00 a 19:00 hrs.</b>
+									<b>Lunes - Viernes <br>9:00 a 19:00 hrs.</b>
 								</h5>
 							</div>
 						</div>
@@ -216,7 +216,6 @@
 										<div class="form-group has-placeholder">
 											<label for="message">Comment</label>
 											<textarea aria-required="true" rows="6" cols="40" name="message" id="message" class="form-control" placeholder="Comentarios adicionales"></textarea>
-
 										</div>
 									</div>
 								</div>
