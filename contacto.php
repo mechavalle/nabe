@@ -183,7 +183,7 @@
 								<p style="font-weight: lighter;">
 									Llámanos
 								</p>
-								<h5>
+								<h5 style="margin-top: 0.35em; margin-bottom: 1em;">
 									<b>(55) 5524 4666</b>
 								</h5>
 							</div>
@@ -193,7 +193,7 @@
 								<p style="font-weight: lighter;">
 									Escríbenos
 								</p>
-								<h5>
+								<h5 style="margin-top: 0.35em; margin-bottom: 1em;">
 									<b>soluciones.empresariales@nabese.com</b>
 								</h5>
 							</div>
@@ -203,7 +203,7 @@
 								<p style="font-weight: lighter;">
 									Horario de Atención
 								</p>
-								<h5>
+								<h5 style="margin-top: 0.35em; margin-bottom: 1em;">
 									<b>Lunes - Viernes <br>9:00 a 19:00 hrs.</b>
 								</h5>
 							</div>

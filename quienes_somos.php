@@ -106,12 +106,22 @@
 					<div class="row">
 						<div class="col-md-12 col-lg-6 animate" data-animation="slideInLeft">
 							<div class="heading-about">
-								<h2>23</h2>
-								<br><br><br><br>
-								<h4><font style="font-weight: bold; color: gray; margin-left: -160px;">Años de</font> <font style="font-weight: bold; color: #020246;">Experiencia</font></h4>
-								<p>
-									Somos una empresa de profesionales con 23 años de experiencia orientada a ofrecer soluciones integrales en Capital Humano, conformada por profesionales certificados, dedicados a satisfacer las necesidades específicas de nuestros clientes.
-								</p>
+								<div class="row" style="margin-right: 10px; margin-left: 10px;">
+                                	<div class="column-1">
+                                    	<h2>23</h2>
+                                	</div>
+                                	<div class="column-1">
+										<h4 style="line-height: 0em;">
+											<font style="font-weight: bold; color: gray;">Años de</font> 
+											<font style="font-weight: bold; color: #020246;">Experiencia</font>
+										</h4>
+									</div>
+									<div class="column-1">
+										<p>
+											Somos una empresa de profesionales con 23 años de experiencia orientada a ofrecer soluciones integrales en Capital Humano, conformada por profesionales certificados, dedicados a satisfacer las necesidades específicas de nuestros clientes.
+										</p>
+									</div>
+								</div>
 							</div>
 						</div>
 						<div class="col-md-12 col-lg-6 animate" data-animation="slideInRight">

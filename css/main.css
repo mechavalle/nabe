@@ -3550,7 +3550,7 @@ px-* - horizontal padding value
 .c-gutter-60 [class*="col-"],
 .row.c-gutter-60 > [class*="col-"] {
 	padding-left: 30px;
-	padding-right: 30px;
+	padding-right: 30px; 
 }
 
 .c-gutter-50 [class*="col-"],
@@ -16833,7 +16833,7 @@ footer .media a:hover {
 	font-weight: 700;
 	letter-spacing: -0.1em;
 	line-height: 0.9;
-	margin: 20px -4px 20px -10px;
+	margin: 3px -4px 20px -10px;
 	padding-right: 30px;
 	-webkit-text-fill-color: transparent;
 }
@@ -16862,7 +16862,8 @@ footer .media a:hover {
 @media (max-width: 479px) {
 	.about .heading-about h4 {
 		font-size: 20px;
-		padding: 9px 0 6px;
+		padding: 68px 0 6px; /*anterior padding: 9px 0 6px;*/
+		margin: 6px 0px 0px -92px; /*anterior ninguno*/
 	}
 }
 
