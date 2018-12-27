@@ -6,25 +6,25 @@
 					<h3 class="widget-title title-menu">Explorar</h3>
 					<ul class="footer-menu">
 						<li>
-							<a href="#">Inicio</a>
+							<a href="#">&nbsp; Inicio</a>
 						</li>
 						<li class="menu1">
 							<a  href="#">Soluciones RH</a>
 						</li>
 						<li>
-							<a href="#">Vacantes</a>
+							<a href="#">&nbsp; Vacantes</a>
 						</li>
 						<li class="menu1">
 							<a  href="#">Evaluaciones</a>
 						</li>
 						<li>
-							<a href="#">Tecnología</a>
+							<a href="#">&nbsp; Tecnología</a>
 						</li>
 						<li class="menu1">
 							<a  href="#">Clientes</a>
 						</li>
 						<li class="border-bottom-0">
-							<a href="#">Contacto</a>
+							<a href="#">&nbsp; Contacto</a>
 						</li>
 					</ul>
 				</div>

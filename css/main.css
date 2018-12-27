@@ -171,7 +171,7 @@ h6 {
 	}
 
 	h5 {
-		font-size: 1.2rem;
+		font-size: 1.0rem; /*anterior font-size: 1.2rem;*/
 	}
 
 	h6 {
@@ -16406,7 +16406,7 @@ span.team-text {
 	float: left;
 	list-style: none;
 	padding: 12px 20px 12px 0;
-	text-align: center;
+	text-align: left; /*anterior*/
 	width: 50%;
 }
 
