@@ -109,7 +109,7 @@
 						<div class="col-md-6 col-sm-4">
 							<div class="icon-box text-center">
 								<div class="icon-styled fs-56">
-									<img style="max-width: 200px;" src="images/test.png">
+									<a href="#"><img style="max-width: 200px;" src="images/test.png"></a>
 								</div>
 								<h6>
 									<b><a href="service-single.html">EVALUACIONES PSICOMÉTRICAS 
@@ -124,7 +124,7 @@
 						<div class="col-md-6 col-sm-4">
 							<div class="icon-box text-center">
 								<div class="icon-styled fs-56">
-									<img style="max-width: 200px;" src="images/finance.png">
+									<a href="#"><img style="max-width: 200px;" src="images/finance.png"></a>
 								</div>
 
 								<h6>
@@ -137,7 +137,7 @@
 						<div class="col-md-6 col-sm-4">
 							<div class="icon-box text-center">
 								<div class="icon-styled fs-56">
-									<img style="max-width: 200px;" src="images/safety.png">
+									<a href="#"><img style="max-width: 200px;" src="images/safety.png"></a>
 								</div>
 								<h6>
 									<b><a href="service-single.html">SEGURIDAD E HIGIENE</a></b>
@@ -150,7 +150,7 @@
 
 							<div class="icon-box text-center">
 								<div class="icon-styled fs-56">
-									<img style="max-width: 200px;" src="images/team.png">
+									<a href="clima_laboral.php"><img style="max-width: 200px;" src="images/team.png"></a>
 								</div>
 								<h6>
 									<b><a href="clima_laboral.php">CLIMA LABORAL</a></b>
