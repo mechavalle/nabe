@@ -144,7 +144,7 @@
 									<div class="row mt-1">
 										<div class="col-sm-12">
 											<div class="form-group text-right">
-												<button type="submit" id="contact_form_submit" name="contact_submit" class="btn theme_button">Enviar</button>
+												<button type="submit" id="contact_form_submit" name="contact_submit" class="btn theme_button" style="margin-bottom: 20px;">Enviar</button>
 											</div>
 										</div>
 									</div>
