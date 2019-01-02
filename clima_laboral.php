@@ -7,7 +7,8 @@
 <!--<![endif]-->
 
 <head>
-	<title>Invenir - HR Recruiting Agency HTML Template</title>
+	<title>Nabe - Clima Laboral</title>
+	<link rel="icon" type="image/x-icon" href="images/logo.png" />
 	<meta charset="utf-8">
 	<!--[if IE]>
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">

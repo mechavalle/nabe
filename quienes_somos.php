@@ -167,7 +167,7 @@
 							</div>
 							<div id="collapse02" class="collapse" role="tabpanel" aria-labelledby="collapse02_header" data-parent="#accordion01">
 								<div class="card-body">
-									Ser una empresa líder, considerados como socios comerciales por nuestros clientes, contribuyendo en su cadena de suministro de Capital Humano, brindando un servicio integral, eficiente e innovador.S
+									Ser una empresa líder, considerados como socios comerciales por nuestros clientes, contribuyendo en su cadena de suministro de Capital Humano, brindando un servicio integral, eficiente e innovador.
 								</div>
 							</div>
 

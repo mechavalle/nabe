@@ -7,7 +7,8 @@
 <!--<![endif]-->
 
 <head>
-	<title>Invenir - HR Recruiting Agency HTML Template</title>
+	<title>Nabe - Clientes</title>
+	<link rel="icon" type="image/x-icon" href="images/logo.png" />
 	<meta charset="utf-8">
 	<!--[if IE]>
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -111,7 +112,7 @@
 							<div class="content mx-30">
 								<h4 class="single-service">NUESTROS CLIENTES</h4>
 								<p>
-									Somos un equipo de profesionales al servicio se su empresa generando una estrategia integral en el área de Capital Humano.
+									Somos un equipo de profesionales al servicio de su empresa generando una estrategia integral en el área de Capital Humano.
 								</p>	
 								<p>
 									Nuestros clientes pertenecen a los principales sectores económicos del país.
