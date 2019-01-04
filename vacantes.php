@@ -156,7 +156,7 @@
 											Revisa las vacantes que tenemos actualmente para ti, da clic <a href="#">aquí</a>
 										</p>
 										<p>
-											Si alguna es de tu interés o deseas estar en nuestra base de datos, envíanos tu curriculum vitae al correo electrónico: 
+											Si alguna es de tu interés o deseas estar en nuestra base de datos, envíanos tu currículum vitae al correo electrónico: 
 											<b><a href="mailto:soluciones.empresariales@nabese.com">soluciones.empresariales@nabese.com</a></b>
 										</p>
 										<ul class="list-styled">
