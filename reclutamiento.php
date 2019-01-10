@@ -7,7 +7,7 @@
 <!--<![endif]-->
 
 <head>
-	<title>Nabe - Cursos</title>
+	<title>Nabe - Clima Laboral</title>
 	<link rel="icon" type="image/x-icon" href="images/logo.png" />
 	<meta charset="utf-8">
 	<!--[if IE]>
@@ -77,7 +77,7 @@
 			<?php  include("header.php"); ?>
 
 			<?php  
-		        $menu="cursos";
+		        $menu="servicios";
 		        include("navbar.php");
 		    ?> 
 
@@ -87,13 +87,16 @@
 					<div class="row">
 						<div class="divider-50"></div>
 						<div class="col-md-12 text-center">
-							<h1 class="">Cursos</h1>
+							<h1 class="">Reclutamiento Especializado</h1>
 							<ol class="breadcrumb">
 								<li class="breadcrumb-item">
 									<a href="./">Home</a>
 								</li>
 								<li class="breadcrumb-item active">
-									Cursos
+									Servicios
+								</li>
+								<li class="breadcrumb-item active">
+									Reclutamiento Especializado
 								</li>
 							</ol>
 						</div>
@@ -107,19 +110,44 @@
 					<div class="d-none d-lg-block divider-30"></div>
 					<div class="row">
 						<div class="col-lg-6 animate" data-animation="fadeInLeft">
-							<img src="images/2002.jpg" alt="">
+							<img src="images/ReclutamEspecializ.jpg" alt="">
 						</div>
 						<div class="single-service divider-30 col-lg-6 text-left animate" data-animation="fadeInRight">
 							<div class="content mx-30">
+								<h4 class="single-service">RECLUTAMIENTO ESPECIALIZADO</h4>
 								<p>
-									Nos preocupamos por la formación del personal, por eso tenemos programas de capacitación desarrollados a partir de las necesidades laborales de nuestros empleados. 
+									Ofrecemos el servicio de reclutamiento especializado, reclutamiento de ingenierías y de puesto de Tecnologías de la información, para ayudar a nuestros clientes a tener el personal adecuado con las competencias técnicas y humanas requeridas.
 								</p>
 								<p>
-									Porque sabemos que la capacitación es una inversión que resulta en mejorar la productividad de tu empresa, realizamos evaluaciones a los cursos que se imparten para así ofrecer capacitación cada vez con mayor calidad y con mejores contenidos. 
+									VENTAJAS
 								</p>
 								<p>
-									Todos nuestros instructores están registrados ante las autoridades laborales como: Secretaría de Trabajo y Previsión Social, Protección Civil, etc. 
+									- Candidatos competentes.<br>
+									- Calidad en el desarrollo de los diferentes proyectos.<br> 
+									- Aportación en la profesionalización del talento humano.<br>
+									- Agilidad y efectividad para la entrega de CV´s a nuestros clientes.<br>
+									- Selección de talento especializado.
 								</p>
+								<p>
+									OFRECEMOS
+								</p>
+								<ul class="list-styled">
+									<li>
+										Garantía en costos y tiempos para la obtención de Capital Humano.
+									</li>
+									<li>
+										Estrategias de reclutamiento efectivas para la obtención de buenos resultados.
+									</li>
+									<li>
+										Servicio de calidad y trato personalizado a cada uno de nuestros clientes. 
+									</li>
+									<li>
+										Respuesta en un tiempo de 24 a 72 horas hábiles a partir del requerimiento solicitado. 
+									</li>
+									<li>
+										Apoyo en la elaboración y análisis de sus perfiles, para cubrir las vacantes de su empresa de acuerdo a las características que busca. 
+									</li>
+								</ul>
 							</div>
 						</div>
 					</div>

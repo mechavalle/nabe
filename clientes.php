@@ -82,6 +82,7 @@
 		    ?> 
 
 			<section class="page_title cs gradientvertical-background s-py-25">
+				<img src="images/pleca.png" style="width: 1349px; height: 235px; position: absolute;">
 				<div class="container">
 					<div class="row">
 						<div class="divider-50"></div>
@@ -106,7 +107,7 @@
 					<div class="d-none d-lg-block divider-30"></div>
 					<div class="row">
 						<div class="col-lg-6 animate" data-animation="fadeInLeft">
-							<img src="images/service-01.jpg" alt="">
+							<img src="images/logos.png" alt="">
 						</div>
 						<div class="single-service divider-30 col-lg-6 text-left animate" data-animation="fadeInRight">
 							<div class="content mx-30">

@@ -118,7 +118,7 @@ body {
 	font-family: "Montserrat", sans-serif;
 	font-size: 16px;
 	font-weight: 400;
-	line-height: 30px;
+	line-height: 25px;/* anterior line-height: 30px;*/
 	overflow: visible;
 	overflow-x: hidden;
 	overflow-y: scroll;

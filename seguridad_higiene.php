@@ -7,7 +7,7 @@
 <!--<![endif]-->
 
 <head>
-	<title>Nabe - Cursos</title>
+	<title>Nabe - Clima Laboral</title>
 	<link rel="icon" type="image/x-icon" href="images/logo.png" />
 	<meta charset="utf-8">
 	<!--[if IE]>
@@ -77,7 +77,7 @@
 			<?php  include("header.php"); ?>
 
 			<?php  
-		        $menu="cursos";
+		        $menu="evaluaciones";
 		        include("navbar.php");
 		    ?> 
 
@@ -87,13 +87,16 @@
 					<div class="row">
 						<div class="divider-50"></div>
 						<div class="col-md-12 text-center">
-							<h1 class="">Cursos</h1>
+							<h1 class="">Seguridad e Higiene</h1>
 							<ol class="breadcrumb">
 								<li class="breadcrumb-item">
 									<a href="./">Home</a>
 								</li>
 								<li class="breadcrumb-item active">
-									Cursos
+									Evaluaciones
+								</li>
+								<li class="breadcrumb-item active">
+									Seguridad e Higiene
 								</li>
 							</ol>
 						</div>
@@ -107,18 +110,19 @@
 					<div class="d-none d-lg-block divider-30"></div>
 					<div class="row">
 						<div class="col-lg-6 animate" data-animation="fadeInLeft">
-							<img src="images/2002.jpg" alt="">
+							<img src="images/" alt="">
 						</div>
 						<div class="single-service divider-30 col-lg-6 text-left animate" data-animation="fadeInRight">
 							<div class="content mx-30">
+								<h4 class="single-service">SEGURIDAD E HIGIENE</h4>
 								<p>
-									Nos preocupamos por la formación del personal, por eso tenemos programas de capacitación desarrollados a partir de las necesidades laborales de nuestros empleados. 
+									Contamos con programas de seguridad e higiene que incluyen la implementación de la Comisión de Seguridad e Higiene, que obliga la NOM – 019- STPS- 2004.
 								</p>
 								<p>
-									Porque sabemos que la capacitación es una inversión que resulta en mejorar la productividad de tu empresa, realizamos evaluaciones a los cursos que se imparten para así ofrecer capacitación cada vez con mayor calidad y con mejores contenidos. 
+									Por medio de recorridos de seguridad se revisan las condiciones inseguras y se aplican planes de acción para su inmediata corrección, siempre dentro del marco legal mexicano aplicable en esta materia.
 								</p>
 								<p>
-									Todos nuestros instructores están registrados ante las autoridades laborales como: Secretaría de Trabajo y Previsión Social, Protección Civil, etc. 
+									Con el objetivo de coadyuvar a la implementación de una cultura de seguridad dentro de la empresa, logrando la disminución de los accidentes de trabajo, daños a la propiedad, etc., alcanzando así un ambiente de seguridad en el ámbito socio laboral de la empresa. 
 								</p>
 							</div>
 						</div>

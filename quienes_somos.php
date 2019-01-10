@@ -82,6 +82,7 @@
 			?> 
 
 			<section class="page_title cs gradientvertical-background s-py-25">
+				<img src="images/pleca.png" style="width: 1349px; height: 235px; position: absolute;">
 				<div class="container">
 					<div class="row">
 						<div class="divider-50"></div>
@@ -118,14 +119,14 @@
 									</div>
 									<div class="column-1">
 										<p>
-											Somos una empresa de profesionales con 23 años de experiencia orientada a ofrecer soluciones integrales en Capital Humano, conformada por profesionales certificados, dedicados a satisfacer las necesidades específicas de nuestros clientes.
+											Somos una empresa de profesionales con 23 años de experiencia <font style="font-weight: bold; font-size: 18px;">orientada a ofrecer soluciones integrales en Capital Humano</font>, conformada por profesionales certificados, dedicados a satisfacer las necesidades específicas de nuestros clientes.
 										</p>
 									</div>
 								</div>
 							</div>
 						</div>
 						<div class="col-md-12 col-lg-6 animate" data-animation="slideInRight">
-							<img src="images/person01.jpg" alt="person01.jpg">
+							<img src="images/person.jpg" alt="person01.jpg">
 						</div>
 					</div>
 				</div>

@@ -81,6 +81,7 @@
 		    ?>
 			
 			<section class="page_title cs gradientvertical-background s-py-25">
+				<img src="images/pleca.png" style="width: 1349px; height: 235px; position: absolute;">
 				<div class="container">
 					<div class="row">
 						<div class="divider-50"></div>
@@ -115,7 +116,7 @@
 								</div>
 								<div class="item-content box services">
 									<h4>
-										<a href="service-single.html">RECLUTAMIENTO ESPECIALIZADO</a>
+										<a href="reclutamiento.php">RECLUTAMIENTO ESPECIALIZADO</a>
 									</h4>
 									<p>
 									</p>
@@ -134,7 +135,7 @@
 								</div>
 								<div class="item-content box services">
 									<h4>
-										<a href="service-single.html">ADMINISTRACIÓN DE PERSONAL</a>
+										<a href="admon_personal.php">ADMINISTRACIÓN DE PERSONAL</a>
 									</h4>
 									<p>
 									</p>
@@ -153,7 +154,7 @@
 								</div>
 								<div class="item-content box services">
 									<h4>
-										<a href="service-single.html">EVALUACIONES <br><br></a>
+										<a href="evaluaciones.php">EVALUACIONES <br><br></a>
 									</h4>
 								</div>
 							</div>

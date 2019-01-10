@@ -35,9 +35,6 @@
 					</div>
 					<!-- eof .header_left_logo -->
 				</div>
-				<div class="widget pt-20">
-					Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla.
-				</div>
 				<div class="widget">
 					<div class="media">
 						<i class="mx-10 color-main fa fa-map-marker"></i>
@@ -53,15 +50,14 @@
 					</div>
 				</div>
 				<div class="author-social">
-					<a href="javascript:window.open('https://www.facebook.com/NABE, Soluciones en Capital Humano','');void 0" class="fa fa-facebook color-bg-icon rounded-icon" title="facebook"></a>
-					<a href="javascript:window.open('https://www.twitter.com/NABE, Soluciones en Capital Humano','');void 0" class="fa fa-twitter color-bg-icon rounded-icon" title="twitter"></a>
-					<a href="javascript:window.open('https://www.google.com/NABE, Soluciones en Capital Humano','');void 0" class="fa fa-google-plus color-bg-icon rounded-icon" title="google+"></a>
+					<a href="javascript:window.open('https://www.facebook.com/pages/NABE-Soluciones-en-Capital-Humano/1443838689167338','');void 0" class="fa fa-facebook color-bg-icon rounded-icon" title="facebook"></a>
+					<a href="javascript:window.open('https://twitter.com/nabe_rh','');void 0" class="fa fa-twitter color-bg-icon rounded-icon" title="twitter"></a>
+					<a href="javascript:window.open('https://www.linkedin.com/company/soluciones-empresariales-y-contratacion-de-personal-nabe-sa-de-cv?trk=company_logo','');void 0" class="fa fa-linkedin color-bg-icon rounded-icon" title="linkedin"></a>
 				</div>
 			</div>
 			<div class="footer col-md-4 text-center animate" data-animation="fadeInUp">
 				<div class="widget widget_mailchimp">
 					<h3 class="widget-title">Noticias</h3>
-					<p>Enter your email address here always to be updated. We promise not to spam!</p>
 					<form class="signup">
 						<label for="mailchimp_email">
 							<span class="screen-reader-text">Subscribe:</span>

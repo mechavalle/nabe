@@ -7,7 +7,7 @@
 <!--<![endif]-->
 
 <head>
-	<title>Nabe - Cursos</title>
+	<title>Nabe - Clima Laboral</title>
 	<link rel="icon" type="image/x-icon" href="images/logo.png" />
 	<meta charset="utf-8">
 	<!--[if IE]>
@@ -77,7 +77,7 @@
 			<?php  include("header.php"); ?>
 
 			<?php  
-		        $menu="cursos";
+		        $menu="servicios";
 		        include("navbar.php");
 		    ?> 
 
@@ -87,13 +87,16 @@
 					<div class="row">
 						<div class="divider-50"></div>
 						<div class="col-md-12 text-center">
-							<h1 class="">Cursos</h1>
+							<h1 class="">Administración de Personal</h1>
 							<ol class="breadcrumb">
 								<li class="breadcrumb-item">
 									<a href="./">Home</a>
 								</li>
 								<li class="breadcrumb-item active">
-									Cursos
+									Servicios
+								</li>
+								<li class="breadcrumb-item active">
+									Administración de Personal
 								</li>
 							</ol>
 						</div>
@@ -107,19 +110,49 @@
 					<div class="d-none d-lg-block divider-30"></div>
 					<div class="row">
 						<div class="col-lg-6 animate" data-animation="fadeInLeft">
-							<img src="images/2002.jpg" alt="">
+							<img src="images/AdmonPersonal.jpg" alt="">
 						</div>
 						<div class="single-service divider-30 col-lg-6 text-left animate" data-animation="fadeInRight">
 							<div class="content mx-30">
+								<h4 class="single-service">ADMINISTRACIÓN DE PERSONAL</h4>
 								<p>
-									Nos preocupamos por la formación del personal, por eso tenemos programas de capacitación desarrollados a partir de las necesidades laborales de nuestros empleados. 
+									Ofrecemos una alternativa efectiva para:
 								</p>
 								<p>
-									Porque sabemos que la capacitación es una inversión que resulta en mejorar la productividad de tu empresa, realizamos evaluaciones a los cursos que se imparten para así ofrecer capacitación cada vez con mayor calidad y con mejores contenidos. 
+									- Evitar errores en el cálculo de tu nómina.<br>
+									- Pagos extemporáneos.<br>
+									- Atención personalizada.<br>
+									- Certeza en el cumplimiento legal (Laboral y Fiscal).
 								</p>
 								<p>
-									Todos nuestros instructores están registrados ante las autoridades laborales como: Secretaría de Trabajo y Previsión Social, Protección Civil, etc. 
+									Para que tu organización se enfoque en las actividades propias de su negocio mientras nosotros trabajamos en la administración de su fuerza laboral de manera clara y eficiente a través de nuestra estrategia IN PLANT. 
 								</p>
+								<p>
+									BENEFICIOS
+								</p>
+								<ul class="list-styled">
+									<li>
+										Flexibilidad al volumen de trabajadores de planta.
+									</li>
+									<li>
+										Seguridad y confianza en el manejo de nómina.
+									</li>
+									<li>
+										Ahorro de costos en la administración y pagos de nómina.
+									</li>
+									<li>
+										Incremento en la productividad de la fuerza laboral. 
+									</li>
+									<li>
+										Tranquilidad al reducir riesgos y conflictos laborales.
+									</li>
+									<li>
+										Cumplimiento legal asociado a la relación laboral de empresa con empleado (IMSS, INFONAVIT).
+									</li>
+									<li>
+										Nabe te libera de la responsabilidad del activo laboral.
+									</li>
+								</ul>
 							</div>
 						</div>
 					</div>

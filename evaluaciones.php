@@ -82,6 +82,7 @@
     		?> 
 
 			<section class="page_title cs gradientvertical-background s-py-25">
+				<img src="images/pleca.png" style="width: 1349px; height: 235px; position: absolute;">
 				<div class="container">
 					<div class="row">
 						<div class="divider-50"></div>
@@ -112,7 +113,7 @@
 									<a href="#"><img style="max-width: 200px;" src="images/test.png"></a>
 								</div>
 								<h6>
-									<b><a href="service-single.html">EVALUACIONES PSICOMÉTRICAS 
+									<b><a href="·">EVALUACIONES PSICOMÉTRICAS 
 										<BR>ON LINE
 										<BR>52 COMPETENCIAS LABORALES
 									</a></b>
@@ -124,11 +125,11 @@
 						<div class="col-md-6 col-sm-4">
 							<div class="icon-box text-center">
 								<div class="icon-styled fs-56">
-									<a href="#"><img style="max-width: 200px;" src="images/finance.png"></a>
+									<a href="estudio_socioeconomico.php"><img style="max-width: 200px;" src="images/finance.png"></a>
 								</div>
 
 								<h6>
-									<b><a href="service-single.html">ESTUDIOS SOCIOECONÓMICOS</a></b>
+									<b><a href="estudio_socioeconomico.php">ESTUDIOS SOCIOECONÓMICOS</a></b>
 								</h6>
 							</div>
 						</div>
@@ -137,10 +138,10 @@
 						<div class="col-md-6 col-sm-4">
 							<div class="icon-box text-center">
 								<div class="icon-styled fs-56">
-									<a href="#"><img style="max-width: 200px;" src="images/safety.png"></a>
+									<a href="seguridad_higiene.php"><img style="max-width: 200px;" src="images/safety.png"></a>
 								</div>
 								<h6>
-									<b><a href="service-single.html">SEGURIDAD E HIGIENE</a></b>
+									<b><a href="seguridad_higiene.php">SEGURIDAD E HIGIENE</a></b>
 								</h6>
 							</div>
 						</div>
