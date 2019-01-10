@@ -62,8 +62,8 @@
 						<label for="mailchimp_email">
 							<span class="screen-reader-text">Subscribe:</span>
 						</label>
-						<input id="mailchimp_email" name="email" type="email" class="form-control mailchimp_email" placeholder="Email Address">
-						<button type="submit" class="search-submit">Subscribe</button>
+						<input id="mailchimp_email" name="email" type="email" class="form-control mailchimp_email" placeholder="Email">
+						<button type="submit" class="search-submit">Suscríbete</button>
 					</form>
 				</div>
 			</div>
