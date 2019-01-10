@@ -5755,7 +5755,7 @@ form[class*="c-mb-"] .row:last-child [class^="col-"],
 }
 
 .divider-30 {
-margin-top: 0px; /*anterior margin-top: 30px;*/
+margin-top: 10px; /*anterior margin-top: 30px;*/
 }
 
 .divider-40 {
