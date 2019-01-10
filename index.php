@@ -100,7 +100,7 @@
 									</div>
 									<div class="intro_layer" data-animation="fadeIn">
 										<div class="d-inline-block">
-											<h5>Visítanos en nuestras redes sociales: NABE, soluciones en Capital Humano</h5>
+											<h5></h5>
 										</div>
 									</div>
 								</div>
@@ -118,6 +118,16 @@
 			<section class="ds slider-bottomline d-none d-xl-block gradient-background py-50">
 				<div class="container">
 					<div class="row">
+						<div class="col-md-12 text-center animate" data-animation="pullUp">
+							<div class="info-block">
+								<h5 style="font-weight: bolder;">
+									Visítanos en nuestras redes sociales: Nabe, Soluciones en Capital Humano
+								</h5>
+							</div>
+						</div>
+						<div class="col-md-12 text-center animate" data-animation="pullUp">
+							<div class="info-block"><br></div>
+						</div>
 						<div class="col-md-4 text-center">
 							<div class="info-block">
 								<p style="font-weight: lighter;">

@@ -87,7 +87,7 @@
 					<div class="row">
 						<div class="divider-50"></div>
 						<div class="col-md-12 text-center">
-							<h1 class="">Administración de Personal</h1>
+							<h1 class="">Servicios</h1>
 							<ol class="breadcrumb">
 								<li class="breadcrumb-item">
 									<a href="./">Home</a>
@@ -111,6 +111,7 @@
 					<div class="row">
 						<div class="col-lg-6 animate" data-animation="fadeInLeft">
 							<img src="images/AdmonPersonal.jpg" alt="">
+							<img src="images/beneficios-01.jpg" alt="">
 						</div>
 						<div class="single-service divider-30 col-lg-6 text-left animate" data-animation="fadeInRight">
 							<div class="content mx-30">
@@ -118,19 +119,25 @@
 								<p>
 									Ofrecemos una alternativa efectiva para:
 								</p>
-								<p>
-									- Evitar errores en el cálculo de tu nómina.<br>
-									- Pagos extemporáneos.<br>
-									- Atención personalizada.<br>
-									- Certeza en el cumplimiento legal (Laboral y Fiscal).
-								</p>
+								<ul class="list-styled" style="font-weight: bold;">
+									<li>
+										Evitar errores en el cálculo de tu nómina.
+									</li>
+									<li>
+										Pagos extemporáneos.
+									</li>
+									<li>
+										Atención personalizada.
+									</li>
+									<li>
+										Certeza en el cumplimiento legal (Laboral y Fiscal).
+									</li>
+								</ul>
 								<p>
 									Para que tu organización se enfoque en las actividades propias de su negocio mientras nosotros trabajamos en la administración de su fuerza laboral de manera clara y eficiente a través de nuestra estrategia IN PLANT. 
 								</p>
-								<p>
-									BENEFICIOS
-								</p>
-								<ul class="list-styled">
+								<h5><b>BENEFICIOS</b></h5>
+								<ul class="list-styled" style="font-weight: bold;">
 									<li>
 										Flexibilidad al volumen de trabajadores de planta.
 									</li>

@@ -87,10 +87,13 @@
 					<div class="row">
 						<div class="divider-50"></div>
 						<div class="col-md-12 text-center">
-							<h1 class="">Estudio Socioeconómico</h1>
+							<h1 class="">Evaluaciones</h1>
 							<ol class="breadcrumb">
 								<li class="breadcrumb-item">
 									<a href="./">Home</a>
+								</li>
+								<li class="breadcrumb-item active">
+									<a href="servicios.php">Servicios</a>
 								</li>
 								<li class="breadcrumb-item active">
 									<a href="evaluaciones.php">Evaluaciones</a>
@@ -111,6 +114,7 @@
 					<div class="row">
 						<div class="col-lg-6 animate" data-animation="fadeInLeft">
 							<img src="images/EstudioSocioec.jpg" alt="">
+							<img src="images/EstudSocioec-01.jpg" alt="">
 						</div>
 						<div class="single-service divider-30 col-lg-6 text-left animate" data-animation="fadeInRight">
 							<div class="content mx-30">
@@ -121,23 +125,15 @@
 								<p>
 									Contamos con experiencia en el manejo de estudios socioeconómicos de:
 								</p>
-								<p>
-									<b>MANDOS SUPERIORES</b><br> Directores, Subdirectores, Gerentes y Subgerentes<br>
-									<b>MANDOS MEDIOS</b><br> Supervisores, Jefaturas, Ventas Técnicas<br>
-									<b>NIVEL ADMINISTRATIVO</b><br> Secretarias, Recepcionistas, Auxiliares, Asistentes y Vendedores
-								</p>
-								<p>
-									NUESTROS SERVICIOS
-								</p>
 								<ul class="list-styled">
 									<li>
-										Entrevista con el candidato en domicilio particular.
+										<b>MANDOS SUPERIORES:</b> Directores, Subdirectores, Gerentes y Subgerentes.
 									</li>
 									<li>
-										Verificación de información financiera (ingresos y egresos familiares).
+										<b>MANDOS MEDIOS:</b> Supervisores, Jefaturas, Ventas Técnicas.
 									</li>
 									<li>
-										Verificación de la información familiar y de su ambiente.
+										<b>NIVEL ADMINISTRATIVO:</b> Secretarias, Recepcionistas, Auxiliares, Asistentes y Vendedores.
 									</li>
 								</ul>
 							</div>

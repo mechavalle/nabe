@@ -111,6 +111,7 @@
 						</div>
 						<div class="single-service divider-30 col-lg-6 text-left animate" data-animation="fadeInRight">
 							<div class="content mx-30">
+								<h4 class="single-service">CURSOS</h4>
 								<p>
 									Nos preocupamos por la formación del personal, por eso tenemos programas de capacitación desarrollados a partir de las necesidades laborales de nuestros empleados. 
 								</p>
@@ -120,7 +121,13 @@
 								<p>
 									Todos nuestros instructores están registrados ante las autoridades laborales como: Secretaría de Trabajo y Previsión Social, Protección Civil, etc. 
 								</p>
+								<p>
+									<b>Contáctanos para saber de los cursos y capacitaciones que tenemos disponibles.</b>
+								</p>
 							</div>
+						</div>
+						<div class="col-lg-12 animate" data-animation="fadeInCenter">
+							<img src="images/cursos-01.jpg" alt="">
 						</div>
 					</div>
 					<div class="d-none d-lg-block divider-20"></div>

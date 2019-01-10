@@ -111,7 +111,7 @@
 								<div class="item-media">
 									<img src="images/77.jpg" alt="">
 									<div class="media-links">
-										<a class="link" title="" href="service-single.html"></a>
+										<a class="link" title="" href="#"></a>
 									</div>
 								</div>
 								<div class="item-content box services">
@@ -130,7 +130,7 @@
 								<div class="item-media">
 									<img src="images/960.jpg" alt="">
 									<div class="media-links">
-										<a class="link" title="" href="service-single.html"></a>
+										<a class="link" title="" href="#"></a>
 									</div>
 								</div>
 								<div class="item-content box services">
@@ -147,9 +147,9 @@
 						<div class="col-md-6 col-lg-4">
 							<div class="vertical-item text-center item-content">
 								<div class="item-media">
-									<img src="images/O6ZK030.jpg" alt="">
+									<img src="images/O6ZK030.jpg">
 									<div class="media-links">
-										<a class="link" title="" href="service-single.html"></a>
+										<a class="link" title="" href="#"></a>
 									</div>
 								</div>
 								<div class="item-content box services">

@@ -5755,7 +5755,7 @@ form[class*="c-mb-"] .row:last-child [class^="col-"],
 }
 
 .divider-30 {
-	margin-top: 30px;
+margin-top: 0px; /*anterior margin-top: 30px;*/
 }
 
 .divider-40 {
@@ -6491,7 +6491,7 @@ body.boxed {
 }
 
 .s-map-light {
-	background-image: url("../img/parallax/map-light.jpg");
+	background-image: url("../img/parallax/mapa.jpg");
 }
 
 .s-light-abstract {
@@ -16417,7 +16417,7 @@ span.team-text {
 
 .footer-menu a:not(.btn) {
 	color: #fff;
-	font-size: 14px; /* anterior font-size: 16px;*/
+	font-size: 16px; /* anterior font-size: 16px;*/
 	font-weight: 400;
 }
 

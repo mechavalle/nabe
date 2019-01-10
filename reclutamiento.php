@@ -87,7 +87,7 @@
 					<div class="row">
 						<div class="divider-50"></div>
 						<div class="col-md-12 text-center">
-							<h1 class="">Reclutamiento Especializado</h1>
+							<h1 class="">Servicios</h1>
 							<ol class="breadcrumb">
 								<li class="breadcrumb-item">
 									<a href="./">Home</a>
@@ -111,26 +111,38 @@
 					<div class="row">
 						<div class="col-lg-6 animate" data-animation="fadeInLeft">
 							<img src="images/ReclutamEspecializ.jpg" alt="">
+							<img src="images/ventajas-01.jpg" alt="">
 						</div>
 						<div class="single-service divider-30 col-lg-6 text-left animate" data-animation="fadeInRight">
 							<div class="content mx-30">
 								<h4 class="single-service">RECLUTAMIENTO ESPECIALIZADO</h4>
 								<p>
-									Ofrecemos el servicio de reclutamiento especializado, reclutamiento de ingenierías y de puesto de Tecnologías de la información, para ayudar a nuestros clientes a tener el personal adecuado con las competencias técnicas y humanas requeridas.
+									Las Tecnologías de información ocupan una parte fundamental en cualquier corporación que pretende sobresalir en los mercados tan competidos actualmente. Para ello es necesario implementar las Tecnologías en información no sólo en los procesos de producción o distribución sino en todos los procesos de la organización.
 								</p>
 								<p>
-									VENTAJAS
+									Las empresas se enfrentan con el problema de no encontrar al personal con la especialización técnica necesaria para cubrir las exigencias tecnológicas de la organización, está problemática provoca:
 								</p>
+								<ul class="list-styled" style="font-weight: bold;">
+									<li>
+										Atraso en entrega de proyectos.
+									</li>
+									<li>
+										Pérdida de clientes.
+									</li>
+									<li>
+										Estancamiento financiero.
+									</li>
+									<li> 
+										Procesos obsoletos.
+									</li>
+									<li>
+										Baja competitividad con la competencia.
+									</li>
+								</ul>
 								<p>
-									- Candidatos competentes.<br>
-									- Calidad en el desarrollo de los diferentes proyectos.<br> 
-									- Aportación en la profesionalización del talento humano.<br>
-									- Agilidad y efectividad para la entrega de CV´s a nuestros clientes.<br>
-									- Selección de talento especializado.
+									Comprendiendo esto, ofrecemos el servicio de reclutamiento especializado, reclutamiento de ingenierías y de puesto de Tecnologías de la información, para ayudar a nuestros clientes a tener el personal adecuado con las competencias técnicas y humanas requeridas.
 								</p>
-								<p>
-									OFRECEMOS
-								</p>
+								<h5><b>OFRECEMOS</b></h5>
 								<ul class="list-styled">
 									<li>
 										Garantía en costos y tiempos para la obtención de Capital Humano.

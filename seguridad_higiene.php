@@ -87,10 +87,13 @@
 					<div class="row">
 						<div class="divider-50"></div>
 						<div class="col-md-12 text-center">
-							<h1 class="">Seguridad e Higiene</h1>
+							<h1 class="">Evaluaciones</h1>
 							<ol class="breadcrumb">
 								<li class="breadcrumb-item">
 									<a href="./">Home</a>
+								</li>
+								<li class="breadcrumb-item active">
+									<a href="servicios.php">Servicios</a>
 								</li>
 								<li class="breadcrumb-item active">
 									<a href="evaluaciones.php">Evaluaciones</a>
@@ -110,7 +113,7 @@
 					<div class="d-none d-lg-block divider-30"></div>
 					<div class="row">
 						<div class="col-lg-6 animate" data-animation="fadeInLeft">
-							<img src="images/" alt="">
+							<img src="images/SeguridadHigiene.jpg" alt="">
 						</div>
 						<div class="single-service divider-30 col-lg-6 text-left animate" data-animation="fadeInRight">
 							<div class="content mx-30">
@@ -125,6 +128,9 @@
 									Con el objetivo de coadyuvar a la implementación de una cultura de seguridad dentro de la empresa, logrando la disminución de los accidentes de trabajo, daños a la propiedad, etc., alcanzando así un ambiente de seguridad en el ámbito socio laboral de la empresa. 
 								</p>
 							</div>
+						</div>
+						<div class="col-lg-12 animate" data-animation="fadeInCenter">
+							<img src="images/" alt="">
 						</div>
 					</div>
 					<div class="d-none d-lg-block divider-20"></div>
