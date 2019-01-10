@@ -16417,7 +16417,7 @@ span.team-text {
 
 .footer-menu a:not(.btn) {
 	color: #fff;
-	font-size: 16px;
+	font-size: 14px; /* anterior font-size: 16px;*/
 	font-weight: 400;
 }
 

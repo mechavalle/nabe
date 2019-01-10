@@ -103,6 +103,7 @@
 			</section>
 
 			<section class="lss-overlay s-map-light s-py-130 c-gutter-60 container-px-30">
+				<img src="images/mapa.jpg" style="position: absolute;">
 				<div class="container ">
 					<div class="row">
 						<div class="divider-30 d-none d-xl-block"></div>
@@ -179,6 +180,16 @@
 			<section class="ds section_gradient gradient-background py-50">
 				<div class="container">
 					<div class="row">
+						<div class="col-md-12 text-center animate" data-animation="pullUp">
+							<div class="info-block">
+								<h5 style="font-weight: bolder;">
+									Visítanos en nuestras redes sociales: Nabe, Soluciones en Capital Humano
+								</h5>
+							</div>
+						</div>
+						<div class="col-md-12 text-center animate" data-animation="pullUp">
+							<div class="info-block"><br></div>
+						</div>
 						<div class="col-md-4 text-center animate" data-animation="pullUp">
 							<div class="info-block">
 								<p style="font-weight: lighter;">
