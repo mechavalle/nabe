@@ -6231,7 +6231,7 @@ img {
 .gradientvertical-background:before {
 	background: #55bce7;
 	/* Old browsers */
-	background: -webkit-linear-gradient(top, #3b5998 0%, #020246 100%);
+	background: -webkit-linear-gradient(top, #696868 0%, #656060 100%);
 	background: linear-gradient(to bottom, navy 0%, darkblue} 100%);
 	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="$colorMain", endColorstr="$colorMain2", GradientType=0);
 }
@@ -13334,7 +13334,7 @@ a img.aligncenter {
 }
 
 .toggle_menu.mobile-active {
-	background-color: #55bce7;
+	background-color: #3b5998; /*anterior background-color: #55bce7;*/
 	border: none;
 	left: auto;
 	margin: 0;
@@ -13427,7 +13427,7 @@ a img.aligncenter {
 
 	.sf-menu {
 		background-color: #fff;
-		border-top: 61px solid #55bce7;
+		border-top: 61px solid #3b5998; /*anterior border-top: 61px solid #55bce7;*/
 		bottom: 0;
 		display: block;
 		font-size: 12px;
