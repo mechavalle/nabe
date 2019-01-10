@@ -114,8 +114,8 @@
 				</div>
 				<!-- eof .container-fluid -->
 			</section>
-
-			<section class="ds slider-bottomline d-none d-xl-block py-50">
+			
+			<section class="ds slider-bottomline d-none d-xl-block gradient-background py-50">
 				<div class="container">
 					<div class="row">
 						<div class="col-md-4 text-center">
