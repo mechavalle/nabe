@@ -6231,7 +6231,7 @@ img {
 .gradientvertical-background:before {
 	background: #55bce7;
 	/* Old browsers */
-	background: -webkit-linear-gradient(top, #696868 0%, #656060 100%);
+	background: -webkit-linear-gradient(top, #636363 0%, #656769 100%);
 	background: linear-gradient(to bottom, navy 0%, darkblue} 100%);
 	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="$colorMain", endColorstr="$colorMain2", GradientType=0);
 }
