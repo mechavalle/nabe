@@ -18,10 +18,10 @@
 							<a  href="evaluaciones.php">Evaluaciones</a>
 						</li>
 						<li>
-							<a  href="clientes.php">Clientes</a>
+							<a  href="clientes.php">&nbsp; Clientes</a>
 						</li>
 						<li class="menu1">
-							<a href="contacto.php">&nbsp; Contacto</a>
+							<a href="contacto.php">Contacto</a>
 						</li>
 					</ul>
 				</div>
