@@ -91,10 +91,7 @@
 							<ol class="breadcrumb">
 								<li class="breadcrumb-item">
 									<a href="./index.php">Home</a>
-								</li>
-								<li class="breadcrumb-item active">
-									<a href="servicios.php">Servicios</a>
-								</li>
+								</li>								
 								<li class="breadcrumb-item active">
 									Evaluaciones
 								</li>
@@ -115,7 +112,7 @@
 									<a href="#"><img style="max-width: 200px;" src="images/test.png"></a>
 								</div>
 								<h6>
-									<b><a href="·">EVALUACIONES PSICOMÉTRICAS 
+									<b><a href="#">EVALUACIONES PSICOMÉTRICAS 
 										<BR>ON LINE
 										<BR>52 COMPETENCIAS LABORALES
 									</a></b>
