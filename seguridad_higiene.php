@@ -130,7 +130,7 @@
 							</div>
 						</div>
 						<div class="col-lg-12 animate" data-animation="fadeInCenter">
-							<img src="images/" alt="">
+							<img src="images/unnamed.jpg" alt="">
 						</div>
 					</div>
 					<div class="d-none d-lg-block divider-20"></div>

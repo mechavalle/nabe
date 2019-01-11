@@ -127,7 +127,7 @@
 						<div class="col-md-6 col-sm-4">
 							<div class="icon-box text-center">
 								<div class="icon-styled fs-56">
-									<a href="estudio_socioeconomico.php"><img style="max-width: 200px;" src="images/finance.png"></a>
+									<a href="estudio_socioeconomico.php"><img style="max-width: 200px;" src="images/debt.png"></a>
 								</div>
 								<h6>
 									<b><a href="estudio_socioeconomico.php">ESTUDIOS SOCIOECONÓMICOS</a></b>
