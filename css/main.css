@@ -16405,7 +16405,7 @@ span.team-text {
 	border-bottom: 1px solid rgba(255, 255, 255, 0.2);
 	float: left;
 	list-style: none;
-	padding: 12px 20px 12px 0;
+	padding: 12px 19px 12px 0; /*anterior padding: 12px 20px 12px 0;*/
 	text-align: left; /*anterior*/
 	width: 50%;
 }
@@ -16417,7 +16417,7 @@ span.team-text {
 
 .footer-menu a:not(.btn) {
 	color: #fff;
-	font-size: 15px; /* anterior font-size: 16px;*/
+	font-size: 16px;
 	font-weight: 400;
 }
 
