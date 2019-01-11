@@ -6,19 +6,25 @@
 					<h3 class="widget-title title-menu">Explorar</h3>
 					<ul class="footer-menu">
 						<li>
-							<a href="index.php">&nbsp; Inicio</a>
+							<a href="index.php">&nbsp; Soluciones RH</a>
 						</li>
 						<li class="menu1">
-							<a  href="index.php">Soluciones RH</a>
+							<a  href="quienes_somos.php">Quiénes Somos</a>
 						</li>
 						<li>
-							<a href="vacantes.php">&nbsp; Vacantes</a>
+							<a href="servicios.php">&nbsp; Servicios</a>
 						</li>
 						<li class="menu1">
 							<a  href="evaluaciones.php">Evaluaciones</a>
 						</li>
 						<li>
-							<a  href="clientes.php">&nbsp; Clientes</a>
+							<a  href="cursos.php">&nbsp; Cursos</a>
+						</li>
+						<li class="menu1">
+							<a href="clientes.php">Clientes</a>
+						</li>
+						<li>
+							<a  href="vacantes.php">&nbsp; Vacantes</a>
 						</li>
 						<li class="menu1">
 							<a href="contacto.php">Contacto</a>

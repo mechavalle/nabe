@@ -7784,7 +7784,7 @@ select,
 .ds textarea,
 .ds select,
 .ds .form-control {
-	background-color: rgba(15, 15, 15, 0.5);
+	background-color: rgba(15, 15, 15, 0.55); /*anterior background-color: rgba(15, 15, 15, 0.5);*/
 	border: none;
 	color: #fff;
 }
@@ -14750,14 +14750,14 @@ body.active-side-header.slide-right .page_header_side {
 		line-height: 0.8;
 		margin: 0;
 		padding: 0 0.2em;
-		text-shadow: 0 0 7px rgba(0, 0, 0, 0.25);
+		text-shadow: -1px -1px 7px rgba(0, 0, 0, 0.25); /* anterior text-shadow: 0 0 7px rgba(0, 0, 0, 0.25); */
 	}
 
 	.page_slider .intro_featured_word {
 		font-size: 30px;
 		line-height: 0.9;
 		margin: 0;
-		text-shadow: 0 0 13px rgba(0, 0, 0, 0.1);
+		text-shadow: -4px -4px 4px rgba(0, 0, 0, 0.1); /*anterior text-shadow: 0 0 13px rgba(0, 0, 0, 0.1);*/
 		white-space: nowrap;
 	}
 
@@ -16417,7 +16417,7 @@ span.team-text {
 
 .footer-menu a:not(.btn) {
 	color: #fff;
-	font-size: 16px; /* anterior font-size: 16px;*/
+	font-size: 15px; /* anterior font-size: 16px;*/
 	font-weight: 400;
 }
 

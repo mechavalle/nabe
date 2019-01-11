@@ -193,7 +193,7 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-sm-12 contact-header heading text-center">
-							<h4>ENVÍANOS TU CV</h4>
+							<h4 style="text-shadow: 2px -1px 12px rgba(15, 15, 15, 0.5);">ENVÍANOS TU CV</h4>
 						</div>
 						<div class="px-30 ds-form">
 							<form class="ds contact-form c-mb-20">
