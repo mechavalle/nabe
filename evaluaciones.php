@@ -105,10 +105,9 @@
 				</div>
 			</section>
 
-			<section class="ls s-pt-50 s-pb-75 c-gutter-60 c-mb-lg-50 service-item">
+			<section class="ls s-pt-50 s-pb-75 c-gutter-60 service-item">
 				<div class="container">
 					<div class="row">
-						<div class="d-none d-lg-block divider-80"></div>
 
 						<div class="col-md-6 col-sm-4">
 							<div class="icon-box text-center">
@@ -130,7 +129,6 @@
 								<div class="icon-styled fs-56">
 									<a href="estudio_socioeconomico.php"><img style="max-width: 200px;" src="images/finance.png"></a>
 								</div>
-
 								<h6>
 									<b><a href="estudio_socioeconomico.php">ESTUDIOS SOCIOECONÓMICOS</a></b>
 								</h6>
