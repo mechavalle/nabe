@@ -82,7 +82,7 @@
 		    ?> 
 
 			<section class="page_title cs gradientvertical-background s-py-25">
-				<img src="images/pleca.png" style="width: 100%; height: 235px; position: absolute;">
+				<img src="images/plecanabe.png" style="width: 100%; height: 235px; position: absolute;">
 				<div class="container">
 					<div class="row">
 						<div class="divider-50"></div>
@@ -127,7 +127,7 @@
 							</div>
 						</div>
 						<div class="col-lg-12 animate" data-animation="fadeInCenter">
-							<img src="images/cursos-01.jpg" alt="">
+							<img src="images/cursos-01.png" alt="">
 						</div>
 					</div>
 					<div class="d-none d-lg-block divider-20"></div>

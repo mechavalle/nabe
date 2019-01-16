@@ -115,7 +115,7 @@ html {
 
 body {
 	background-color: #fff;
-	font-family: "Montserrat", sans-serif;
+	font-family: "Helvetica", sans-serif; /*anterior font-family: "Montserrat", sans-serif;*/
 	font-size: 16px;
 	font-weight: 400;
 	line-height: 25px;/* anterior line-height: 30px;*/
@@ -1037,7 +1037,7 @@ textarea.contact {
 	border: 1px solid #fff;
 	border-radius: 0;
 	color: #1f232b;
-	content: "Choose file";
+	content: "Elegir Archivo";
 	font-size: 12px;
 	font-weight: 400;
 	height: 40px;
@@ -6231,7 +6231,7 @@ img {
 .gradientvertical-background:before {
 	background: #55bce7;
 	/* Old browsers */
-	background: -webkit-linear-gradient(top, #636363 0%, #656769 100%);
+	background: -webkit-linear-gradient(top, #e6e7e8 0%, #c3c3c3 100%);
 	background: linear-gradient(to bottom, navy 0%, darkblue} 100%);
 	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="$colorMain", endColorstr="$colorMain2", GradientType=0);
 }
@@ -8317,7 +8317,7 @@ select,
 }
 
 .section_gradient {
-	background-color: navy;
+	background-color: #263C74;
 }
 
 /*
@@ -16378,7 +16378,7 @@ span.team-text {
 }
 
 .slider-bottomline {
-	background-color: navy;
+	background-color: #263C74;
 	display: block;
 	margin-top: -180px;
 	z-index: 3;

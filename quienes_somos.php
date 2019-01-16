@@ -32,6 +32,10 @@
 
 </head>
 
+<style type="text/css">
+	.card-body { text-align: justify; }
+</style>
+
 <body>
 	<!--[if lt IE 9]>
 		<div class="bg-danger text-center">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/" class="color-main">upgrade your browser</a> to improve your experience.</div>
@@ -82,7 +86,7 @@
 			?> 
 
 			<section class="page_title cs gradientvertical-background s-py-25">
-				<img src="images/pleca.png" style="width: 100%; height: 235px; position: absolute;">
+				<img src="images/plecanabe.png" style="width: 100%; height: 235px; position: absolute;">
 				<div class="container">
 					<div class="row">
 						<div class="divider-50"></div>
@@ -107,21 +111,21 @@
 					<div class="row">
 						<div class="col-md-12 col-lg-6 animate" data-animation="slideInLeft">
 							<div class="heading-about">
-								<div class="row" style="margin-right: 10px; margin-left: 10px;">
+								<div class="row" style="margin-right: 10px !important; margin-left: 10px !important;">
                                 	<div class="column-1">
                                     	<h2>23</h2>
                                 	</div>
                                 	<div class="column-1">
-										<h4 style="line-height: 0em;">
+										<h4 style="line-height: 0em; margin-right: 16px;">
 											<font style="font-weight: bold; color: gray;">Años de</font> 
 											<font style="font-weight: bold; color: #020246;">Experiencia</font>
 										</h4>
 									</div>
+								</div>
 									<div class="column-1">
 										<p>
 											Somos una empresa de profesionales con 23 años de experiencia <font style="font-weight: bold; font-size: 18px;">orientada a ofrecer soluciones integrales en Capital Humano</font>, conformada por profesionales certificados, dedicados a satisfacer las necesidades específicas de nuestros clientes.
 										</p>
-									</div>
 								</div>
 							</div>
 						</div>
@@ -194,7 +198,7 @@
 							</div>
 							<div id="collapse04" class="collapse" role="tabpanel" aria-labelledby="collapse04_header" data-parent="#accordion01">
 								<div class="card-body">
-									Contamos con 4 sucursales en el país, las cuales están ubicadas en Estado de México, León Gto., Guadalajara y Monterrey, Corporativo en Ciudad de México.
+									Contamos con 4 sucursales en el país, las cuales están ubicadas en <font style="font-weight: bold;">Estado de México, León Gto., Guadalajara y Monterrey,</font> Corporativo en Ciudad de México.
 								</div>
 							</div>
 

@@ -82,7 +82,7 @@
 		    ?> 
 
 			<section class="page_title cs gradientvertical-background s-py-25">
-				<img src="images/pleca.png" style="width: 100%; height: 235px; position: absolute;">
+				<img src="images/plecanabe.png" style="width: 100%; height: 235px; position: absolute;">
 				<div class="container">
 					<div class="row">
 						<div class="divider-50"></div>
@@ -115,7 +115,7 @@
 								<p>
 									Somos un equipo de profesionales al servicio de su empresa generando una estrategia integral en el área de Capital Humano.
 								</p>	
-								<p>
+								<p style="font-weight: bold;">
 									Nuestros clientes pertenecen a los principales sectores económicos del país.
 								</p>
 								<p>

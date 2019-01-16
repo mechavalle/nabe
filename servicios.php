@@ -81,7 +81,7 @@
 		    ?>
 			
 			<section class="page_title cs gradientvertical-background s-py-25">
-				<img src="images/pleca.png" style="width: 100%; height: 235px; position: absolute;">
+				<img src="images/plecanabe.png" style="width: 100%; height: 235px; position: absolute;">
 				<div class="container">
 					<div class="row">
 						<div class="divider-50"></div>
@@ -106,7 +106,7 @@
 					<div class="row">
 						<div class="d-none d-lg-block divider-80"></div>
 
-						<div class="col-md-6 col-lg-4">
+						<div class="col-md-6 col-lg-3">
 							<div class="vertical-item text-center item-content">
 								<div class="item-media">
 									<img src="images/77.jpg" alt="">
@@ -125,7 +125,7 @@
 						</div>
 						<!-- .col-* -->
 
-						<div class="col-md-6 col-lg-4">
+						<div class="col-md-6 col-lg-3">
 							<div class="vertical-item text-center item-content">
 								<div class="item-media">
 									<img src="images/960.jpg" alt="">
@@ -144,10 +144,10 @@
 						</div>
 						<!-- .col-* -->
 
-						<div class="col-md-6 col-lg-4">
+						<div class="col-md-6 col-lg-3">
 							<div class="vertical-item text-center item-content">
 								<div class="item-media">
-									<img src="images/O6ZK030.jpg">
+									<img src="images/O6ZK030.jpg" alt="">
 									<div class="media-links">
 										<a class="link" title="" href="#"></a>
 									</div>
@@ -156,6 +156,25 @@
 									<h4>
 										<a href="evaluaciones.php">EVALUACIONES <br><br></a>
 									</h4>
+								</div>
+							</div>
+						</div>
+						<!-- .col-* -->
+
+						<div class="col-md-6 col-lg-3">
+							<div class="vertical-item text-center item-content">
+								<div class="item-media">
+									<img src="images/O6ZK030.jpg" alt="">
+									<div class="media-links">
+										<a class="link" title="" href="#"></a>
+									</div>
+								</div>
+								<div class="item-content box services">
+									<h4>
+										<a href="maquila.php">MAQUILA<br><br></a>
+									</h4>
+									<p>
+									</p>
 								</div>
 							</div>
 						</div>

@@ -115,7 +115,7 @@
 				<!-- eof .container-fluid -->
 			</section>
 			
-			<section class="ds slider-bottomline d-none d-xl-block gradient-background py-50">
+			<section class="ds slider-bottomline d-none d-xl-block py-50">
 				<div class="container">
 					<div class="row">
 						<div class="col-md-12 text-center animate" data-animation="pullUp">
@@ -167,18 +167,18 @@
 					<div class="row">
 						<div class="col-md-12 col-lg-6 animate" data-animation="slideInLeft">
 							<div class="heading-about">
-                       			<div class="row" style="margin-right: 10px; margin-left: 10px;">
+                       			<div class="row" style="margin-right: 10px !important; margin-left: 10px !important;">
                                 	<div class="column-1">
                                     	<h2>23</h2>
                                 	</div>
                                 	<div class="column-1">
-										<h4 style="line-height: 0em;"><font style="font-weight: bold; color: gray;">Años de</font> <font style="font-weight: bold; color: #020246;">Experiencia</font></h4>
+										<h4 style="line-height: 0em; margin-right: 16px;"><font style="font-weight: bold; color: gray;">Años de</font> <font style="font-weight: bold; color: #020246;">Experiencia</font></h4>
 									</div>
-									<div class="column-1">
-										<p>
-											Somos una empresa de profesionales con 23 años de experiencia <font style="font-weight: bold; font-size: 18px;">orientada a ofrecer soluciones integrales en Capital Humano</font>, conformada por profesionales certificados, dedicados a satisfacer las necesidades específicas de nuestros clientes.
-										</p>
-									</div>
+								</div>
+								<div class="column-1">
+									<p>
+										Somos una empresa de profesionales con 23 años de experiencia <font style="font-weight: bold; font-size: 18px;">orientada a ofrecer soluciones integrales en Capital Humano</font>, conformada por profesionales certificados, dedicados a satisfacer las necesidades específicas de nuestros clientes.
+									</p>
 								</div>
 							</div>
 						</div>

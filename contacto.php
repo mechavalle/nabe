@@ -82,7 +82,7 @@
 		    ?> 
 
 			<section class="page_title cs gradientvertical-background s-py-25">
-				<img src="images/pleca.png" style="width: 100%; height: 235px; position: absolute;">
+				<img src="images/plecanabe.png" style="width: 100%; height: 235px; position: absolute;">
 				<div class="container">
 					<div class="row">
 						<div class="divider-50"></div>
@@ -176,7 +176,7 @@
 				</div>
 			</section>
 
-			<section class="ds section_gradient gradient-background py-50">
+			<section class="ds section_gradient py-50">
 				<div class="container">
 					<div class="row">
 						<div class="col-md-4 text-center animate" data-animation="pullUp">
