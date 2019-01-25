@@ -77,7 +77,7 @@
 			<?php  include("header.php"); ?>
 
 			<?php  
-		        $menu="servicios";
+		        $menu="evaluaciones";
 		        include("navbar.php");
 		    ?> 
 
@@ -93,7 +93,7 @@
 									<a href="./">Home</a>
 								</li>
 								<li class="breadcrumb-item active">
-									<a href="servicios.php">Evaluaciones</a>
+									<a href="evaluaciones.php">Evaluaciones</a>
 								</li>
 								<li class="breadcrumb-item active">
 									Evaluaciones psicométricas
