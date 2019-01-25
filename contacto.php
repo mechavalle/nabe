@@ -30,6 +30,10 @@
 		<script src="js/vendor/jquery-1.12.4.min.js"></script>
 	<![endif]-->
 
+	<style type="text/css">
+		.collapse-table { padding: 10px 150px 20px 150px; }
+	</style>
+
 </head>
 
 <body>
@@ -173,6 +177,79 @@
 						<!--.col-* -->
 						<div class="divider-30 d-none d-xl-block"></div>
 					</div>
+				</div>
+			</section>
+
+			<section class="ls collapse-section about">
+				<div class="row">
+
+					<div class="col-lg-6 collapse-table">
+						<div id="accordion01" role="tablist">
+
+							<div class="card-header" role="tab" id="collapse01_header">
+								<h5>
+									<a data-toggle="collapse" href="#collapse01" aria-expanded="true" aria-controls="collapse01">
+										CORPORATIVO
+									</a>
+								</h5>
+							</div>
+							<div id="collapse01" class="collapse show" role="tabpanel" aria-labelledby="collapse01_header" data-parent="#accordion01">
+								<div class="card-body">
+									Nicolás San Juan #1109 Colonia del Valle, Alcaldía Benito Juárez C.P. 03100, CDMX<br>
+									Teléfono: 5524 – 4666
+								</div>
+							</div>
+
+							<div class="card-header" role="tab" id="collapse02_header">
+								<h5>
+									<a class="collapsed" data-toggle="collapse" href="#collapse02" aria-expanded="false" aria-controls="collapse02">
+										ESTADO DE MÉXICO
+									</a>
+								</h5>
+							</div>
+							<div id="collapse02" class="collapse" role="tabpanel" aria-labelledby="collapse02_header" data-parent="#accordion01">
+								<div class="card-body">
+									Av. 16 de Septiembre #101 Int. 203 Col. Cuautitlán C.P. 54800, EDOMEX<br>
+									Teléfono: 6843 – 9933
+								</div>
+							</div>
+						</div>
+					</div>
+
+					<div class="col-lg-6 collapse-table">
+						<div id="accordion01" role="tablist">
+							<div class="card-header" role="tab" id="collapse03_header">
+								<h5>
+									<a class="collapsed" data-toggle="collapse" href="#collapse03" aria-expanded="false" aria-controls="collapse03">
+										LEÓN
+									</a>
+								</h5>
+							</div>
+							<div id="collapse03" class="collapse" role="tabpanel" aria-labelledby="collapse03_header" data-parent="#accordion01">
+								<div class="card-body">
+									Av. Plan de San Luis #101 Int. 601 Col. El Cuesillo C.P. 37266, León, Gto.<br>
+									Teléfono: 7771 – 9881
+								</div>
+							</div>
+
+							<div class="card-header" role="tab" id="collapse04_header">
+								<h5>
+									<a class="collapsed" data-toggle="collapse" href="#collapse04" aria-expanded="false" aria-controls="collapse04">
+										MONTERREY
+									</a>
+								</h5>
+							</div>
+							<div id="collapse04" class="collapse" role="tabpanel" aria-labelledby="collapse04_header" data-parent="#accordion01">
+								<div class="card-body">
+									<p>
+										Mariano Matamoros # Col. Centro C.P. 64000, Monterrey, N.L.<br>
+										Teléfono: 2261 - 1370
+									</p>
+								</div>
+							</div>
+						</div>
+					</div>
+
 				</div>
 			</section>
 

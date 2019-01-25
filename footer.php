@@ -8,8 +8,8 @@
 						<li>
 							<a href="index.php">Inicio</a>
 						</li>
-						<li class="menu1">
-							<a  href="quienes_somos.php">Quiénes Somos</a>
+						<li class="menu1" style="padding-left: 0px;">
+							<a  href="quienes_somos.php">¿Quiénes Somos?</a>
 						</li>
 						<li>
 							<a href="servicios.php">Servicios</a>

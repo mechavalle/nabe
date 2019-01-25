@@ -97,7 +97,7 @@
 									<a href="./index.php">Home</a>
 								</li>
 								<li class="breadcrumb-item active">
-									Quiénes Somos
+									¿Quiénes Somos?
 								</li>
 							</ol>
 						</div>
@@ -208,24 +208,7 @@
 							<div id="collapse04" class="collapse" role="tabpanel" aria-labelledby="collapse04_header" data-parent="#accordion01">
 								<div class="card-body">
 									<p>
-										<font style="font-weight: bold;">CORPORATIVO</font><br>
-										Nicolás San Juan #1109 Colonia del Valle, Alcaldía Benito Juárez C.P. 03100, CDMX<br>
-										Teléfono: 5524 – 4666
-									</p>
-									<p>
-										<font style="font-weight: bold;">ESTADO DE MÉXICO</font><br>
-										Av. 16 de Septiembre #101 Int. 203 Col. Cuautitlán C.P. 54800, EDOMÉX<br>
-										Teléfono: 6843 – 9933
-									</p>
-									<p>
-										<font style="font-weight: bold;">LEÓN</font><br>
-										Av. Plan de San Luis #101 Int. 601 Col. El Cuesillo C.P. 37266, León, Gto.<br>
-										Teléfono: 7771 – 9881
-									</p>
-									<p>
-										<font style="font-weight: bold;">MONTERREY</font><br>
-										Mariano Matamoros # Col. Centro C.P. 64000, Monterrey, N.L.<br>
-										Teléfono: 2261 - 1370
+										Contamos con 4 sucursales en el país, las cuales están ubicadas en <font style="font-weight: bold;"><a href="contacto.php" style="color: #7f7f7f;">Estado de México, León Gto., Monterrey y Corporativo en Ciudad de México.</a></font>
 									</p>
 								</div>
 							</div>
