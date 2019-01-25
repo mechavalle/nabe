@@ -6,7 +6,7 @@
 					<h3 class="widget-title title-menu">Explorar</h3>
 					<ul class="footer-menu">
 						<li>
-							<a href="index.php">Soluciones RH</a>
+							<a href="index.php">Inicio</a>
 						</li>
 						<li class="menu1">
 							<a  href="quienes_somos.php">Quiénes Somos</a>

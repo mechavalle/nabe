@@ -32,13 +32,8 @@ switch($menu)
 						<!-- main nav start -->
 						<nav class="top-nav">
 							<ul class="nav sf-menu">
-								<li <?php echo $csolucionesrh; ?>>
-									<a href="index.php">Soluciones RH</a>
-								</li>
-								<!-- eof home -->
-
 								<li <?php echo $cquienessomos; ?>>
-									<a href="quienes_somos.php">Quiénes somos</a>
+									<a href="quienes_somos.php">¿Quiénes somos?</a>
 								</li>
 								<!-- eof quiénes_somos -->
 

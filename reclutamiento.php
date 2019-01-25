@@ -111,16 +111,16 @@
 					<div class="row">
 						<div class="col-lg-6 animate" data-animation="fadeInLeft">
 							<img src="images/ReclutamEspecializ.jpg" alt="">
-							<img src="images/ventajas-01.jpg" alt="">
+							<img src="images/ventajas2-01.jpg" alt="">
 						</div>
 						<div class="single-service divider-30 col-lg-6 text-left animate" data-animation="fadeInRight">
 							<div class="content mx-30">
 								<h4 class="single-service">RECLUTAMIENTO ESPECIALIZADO</h4>
 								<p>
-									Las Tecnologías de información ocupan una parte fundamental en cualquier corporación que pretende sobresalir en los mercados tan competidos actualmente. Para ello es necesario implementar las Tecnologías en información no sólo en los procesos de producción o distribución sino en todos los procesos de la organización.
+									Las Tecnologías de Información ocupan una parte fundamental en cualquier corporación que pretende sobresalir en los mercados tan competidos actualmente.
 								</p>
 								<p>
-									Las empresas se enfrentan con el problema de no encontrar al personal con la especialización técnica necesaria para cubrir las exigencias tecnológicas de la organización, está problemática provoca:
+									La necesidad de implementar las Tecnologías de Información y personal especializado que cubra esta demanda la encontramos en todos los procesos de la organización ya que busca optimizar su respuesta evitando:
 								</p>
 								<ul class="list-styled" style="font-weight: bold;">
 									<li>
@@ -140,7 +140,7 @@
 									</li>
 								</ul>
 								<p>
-									Comprendiendo esto, ofrecemos el servicio de reclutamiento especializado, reclutamiento de ingenierías y de puesto de Tecnologías de la información, para ayudar a nuestros clientes a tener el personal adecuado con las competencias técnicas y humanas requeridas.
+									Entendemos la necesidad de nuestros clientes en el área, nuestro servicio nos permite   garantizar un reclutamiento especializado que le permitirá contar con personal experto en Tecnologías con las competencias técnicas y perfil asociado a la cultura de la organización. 
 								</p>
 								<h5><b>OFRECEMOS</b></h5>
 								<ul class="list-styled">

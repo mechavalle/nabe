@@ -107,7 +107,7 @@
 					<div class="d-none d-lg-block divider-30"></div>
 					<div class="row">
 						<div class="col-lg-6 animate" data-animation="fadeInLeft">
-							<img src="images/logos.png" alt="">
+							<img src="images/Clientes.jpg" alt="">
 						</div>
 						<div class="single-service divider-30 col-lg-6 text-left animate" data-animation="fadeInRight">
 							<div class="content mx-30">

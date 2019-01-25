@@ -111,7 +111,7 @@
 					<div class="row">
 						<div class="col-lg-6 animate" data-animation="fadeInLeft">
 							<img src="images/EstudioSocioec.jpg" alt="">
-							<img src="images/EstudSocioec-01.jpg" alt="">
+							<img src="images/EstudSocioec2-01.jpg" alt="">
 						</div>
 						<div class="single-service divider-30 col-lg-6 text-left animate" data-animation="fadeInRight">
 							<div class="content mx-30">
@@ -131,6 +131,20 @@
 									</li>
 									<li>
 										<b>NIVEL ADMINISTRATIVO:</b> Secretarias, Recepcionistas, Auxiliares, Asistentes y Vendedores.
+									</li>
+								</ul>
+								<p>
+									GARANTÍAS
+								</p>
+								<ul class="list-styled">
+									<li>
+										Veracidad en la información.
+									</li>
+									<li>
+										Confidencialidad.
+									</li>
+									<li>
+										Tiempo de respuesta 48 a 72 Horas.
 									</li>
 								</ul>
 							</div>

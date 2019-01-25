@@ -15,7 +15,7 @@
 					<div class="text-center">
 						<div class="header_logo_center">
 							<a href="./" class="logo">
-								<img src="images/logo-2.png" alt="">
+								<img src="images/logo-3.png" alt="">
 							</a>
 						</div>
 						<!-- eof .header_left_logo -->

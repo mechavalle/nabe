@@ -116,7 +116,24 @@
 								</div>
 								<div class="item-content box services">
 									<h4>
-										<a href="reclutamiento.php">RECLUTAMIENTO ESPECIALIZADO</a>
+										<a href="seleccion_personal.php">RECLUTAMIENTO Y SELECCIÓN DE PERSONAL</a>
+									</h4>
+								</div>
+							</div>
+						</div>
+						<!-- .col-* -->
+
+						<div class="col-md-6 col-lg-3">
+							<div class="vertical-item text-center item-content">
+								<div class="item-media">
+									<img src="images/O6ZK030.jpg" alt="">
+									<div class="media-links">
+										<a class="link" title="" href="#"></a>
+									</div>
+								</div>
+								<div class="item-content box services">
+									<h4>
+										<a href="reclutamiento.php">RECLUTAMIENTO ESPECIALIZADO<br><br></a>
 									</h4>
 									<p>
 									</p>
@@ -135,7 +152,7 @@
 								</div>
 								<div class="item-content box services">
 									<h4>
-										<a href="admon_personal.php">ADMINISTRACIÓN DE PERSONAL</a>
+										<a href="admon_personal.php">ADMINISTRACIÓN DE PERSONAL<br><br></a>
 									</h4>
 									<p>
 									</p>
@@ -147,31 +164,14 @@
 						<div class="col-md-6 col-lg-3">
 							<div class="vertical-item text-center item-content">
 								<div class="item-media">
-									<img src="images/O6ZK030.jpg" alt="">
+									<img src="images/maquiladora_ap.jpg" alt="" style="height: 165px;">
 									<div class="media-links">
 										<a class="link" title="" href="#"></a>
 									</div>
 								</div>
 								<div class="item-content box services">
 									<h4>
-										<a href="evaluaciones.php">EVALUACIONES <br><br></a>
-									</h4>
-								</div>
-							</div>
-						</div>
-						<!-- .col-* -->
-
-						<div class="col-md-6 col-lg-3">
-							<div class="vertical-item text-center item-content">
-								<div class="item-media">
-									<img src="images/O6ZK030.jpg" alt="">
-									<div class="media-links">
-										<a class="link" title="" href="#"></a>
-									</div>
-								</div>
-								<div class="item-content box services">
-									<h4>
-										<a href="maquila.php">MAQUILA<br><br></a>
+										<a href="maquila.php">UNIVERSAL DE MAQUILAS<br><br></a>
 									</h4>
 									<p>
 									</p>

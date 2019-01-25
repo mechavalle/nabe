@@ -30,6 +30,10 @@
 		<script src="js/vendor/jquery-1.12.4.min.js"></script>
 	<![endif]-->
 
+	<style type="text/css">
+		/*a:hover > img { opacity: 0.8}*/
+	</style>
+
 </head>
 
 <body>
@@ -109,10 +113,10 @@
 						<div class="col-md-6 col-sm-4">
 							<div class="icon-box text-center">
 								<div class="icon-styled fs-56">
-									<a href="#"><img style="max-width: 200px;" src="images/test.png"></a>
+									<a href="evaluaciones_online.php"><img style="max-width: 200px;" src="images/test.png"></a>
 								</div>
 								<h6>
-									<b><a href="#">EVALUACIONES PSICOMÉTRICAS 
+									<b><a href="evaluaciones_online.php">EVALUACIONES PSICOMÉTRICAS 
 										<BR>ON LINE
 										<BR>52 COMPETENCIAS LABORALES
 									</a></b>

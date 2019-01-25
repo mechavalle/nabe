@@ -82,7 +82,7 @@
 		    ?> 
 
 			<section class="page_slider cs text-center">
-				<img src="images/home.jpg" alt="">
+				<img src="images/home1.jpg" alt="">
 				<div class="container-fluid">
 					<div class="row">
 						<div class="col-sm-12">
@@ -90,7 +90,7 @@
 								<div class="intro_layers">
 									<div class="intro_layer" data-animation="fadeInLeft">
 										<h3 class="intro_before_featured_word">
-											TE PODEMOS AYUDAR A ENCONTRAR
+											TE AYUDAMOS A ENCONTRAR
 										</h3>
 									</div>
 									<div class="intro_layer" data-animation="fadeInRight">
@@ -118,16 +118,6 @@
 			<section class="ds slider-bottomline d-none d-xl-block py-50">
 				<div class="container">
 					<div class="row">
-						<div class="col-md-12 text-center animate" data-animation="pullUp">
-							<div class="info-block">
-								<h5 style="font-weight: bolder;">
-									Visítanos en nuestras redes sociales: Nabe, Soluciones en Capital Humano
-								</h5>
-							</div>
-						</div>
-						<div class="col-md-12 text-center animate" data-animation="pullUp">
-							<div class="info-block"><br></div>
-						</div>
 						<div class="col-md-4 text-center">
 							<div class="info-block">
 								<p style="font-weight: lighter;">

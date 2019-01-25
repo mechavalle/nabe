@@ -91,7 +91,7 @@
 					<div class="row">
 						<div class="divider-50"></div>
 						<div class="col-md-12 text-center">
-							<h1 class="">Quiénes Somos</h1>
+							<h1 class="">¿Quiénes Somos?</h1>
 							<ol class="breadcrumb">
 								<li class="breadcrumb-item">
 									<a href="./index.php">Home</a>
@@ -185,7 +185,16 @@
 							</div>
 							<div id="collapse03" class="collapse" role="tabpanel" aria-labelledby="collapse03_header" data-parent="#accordion01">
 								<div class="card-body">
-									Los principales valores de la marca son: responsabilidad, ética profesional, compromiso, lealtad, honorabilidad, transparencia, integridad, honestidad y entusiasmo.
+									Los principales valores de la marca son: 
+									<li type="square" style="color: #020246;"><font style="font-size: 16px; color: #7f7f7f;">Responsabilidad</font></li>
+									<li type="square" style="color: #020246;"><font style="font-size: 16px; color: #7f7f7f;">Ética Profesional</font></li> 
+									<li type="square" style="color: #020246;"><font style="font-size: 16px; color: #7f7f7f;">Compromiso</font></li>
+									<li type="square" style="color: #020246;"><font style="font-size: 16px; color: #7f7f7f;">Lealtad</font></li>
+									<li type="square" style="color: #020246;"><font style="font-size: 16px; color: #7f7f7f;">Honorabilidad</font></li>
+									<li type="square" style="color: #020246;"><font style="font-size: 16px; color: #7f7f7f;">Transparencia</font></li>
+									<li type="square" style="color: #020246;"><font style="font-size: 16px; color: #7f7f7f;">Integridad</font></li>
+									<li type="square" style="color: #020246;"><font style="font-size: 16px; color: #7f7f7f;">Honestidad</font></li> 
+									<li type="square" style="color: #020246;"><font style="font-size: 16px; color: #7f7f7f;">Entusiasmo</font></li>
 								</div>
 							</div>
 
@@ -198,7 +207,26 @@
 							</div>
 							<div id="collapse04" class="collapse" role="tabpanel" aria-labelledby="collapse04_header" data-parent="#accordion01">
 								<div class="card-body">
-									Contamos con 4 sucursales en el país, las cuales están ubicadas en <font style="font-weight: bold;">Estado de México, León Gto., Guadalajara y Monterrey,</font> Corporativo en Ciudad de México.
+									<p>
+										<font style="font-weight: bold;">CORPORATIVO</font><br>
+										Nicolás San Juan #1109 Colonia del Valle, Alcaldía Benito Juárez C.P. 03100, CDMX<br>
+										Teléfono: 5524 – 4666
+									</p>
+									<p>
+										<font style="font-weight: bold;">ESTADO DE MÉXICO</font><br>
+										Av. 16 de Septiembre #101 Int. 203 Col. Cuautitlán C.P. 54800, EDOMÉX<br>
+										Teléfono: 6843 – 9933
+									</p>
+									<p>
+										<font style="font-weight: bold;">LEÓN</font><br>
+										Av. Plan de San Luis #101 Int. 601 Col. El Cuesillo C.P. 37266, León, Gto.<br>
+										Teléfono: 7771 – 9881
+									</p>
+									<p>
+										<font style="font-weight: bold;">MONTERREY</font><br>
+										Mariano Matamoros # Col. Centro C.P. 64000, Monterrey, N.L.<br>
+										Teléfono: 2261 - 1370
+									</p>
 								</div>
 							</div>
 

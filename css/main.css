@@ -8317,7 +8317,7 @@ select,
 }
 
 .section_gradient {
-	background-color: #263C74;
+	background-color: #020246;
 }
 
 /*
@@ -14750,14 +14750,14 @@ body.active-side-header.slide-right .page_header_side {
 		line-height: 0.8;
 		margin: 0;
 		padding: 0 0.2em;
-		text-shadow: -1px -1px 7px rgba(0, 0, 0, 0.25); /* anterior text-shadow: 0 0 7px rgba(0, 0, 0, 0.25); */
+		text-shadow: 4px 4px 7px rgba(0, 0, 0, 0.25); /* anterior text-shadow: 0 0 7px rgba(0, 0, 0, 0.25); */
 	}
 
 	.page_slider .intro_featured_word {
 		font-size: 30px;
 		line-height: 0.9;
 		margin: 0;
-		text-shadow: -4px -4px 4px rgba(0, 0, 0, 0.1); /*anterior text-shadow: 0 0 13px rgba(0, 0, 0, 0.1);*/
+		text-shadow: -5px 5px 20px rgba(0, 0, 0, 0.1); /*anterior text-shadow: 0 0 13px rgba(0, 0, 0, 0.1);*/
 		white-space: nowrap;
 	}
 
@@ -16378,7 +16378,7 @@ span.team-text {
 }
 
 .slider-bottomline {
-	background-color: #263C74;
+	background-color: #020246;
 	display: block;
 	margin-top: -180px;
 	z-index: 3;

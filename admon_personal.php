@@ -134,13 +134,10 @@
 									</li>
 								</ul>
 								<p>
-									Para que tu organización se enfoque en las actividades propias de su negocio mientras nosotros trabajamos en la administración de su fuerza laboral de manera clara y eficiente a través de nuestra estrategia IN PLANT. 
+									Contribuimos en la rentabilidad de la Empresa, mientras nosotros trabajamos en la administración de su fuerza laboral de manera clara y eficiente a través de nuestra estrategia IN PLANT. La organización dirige y orienta su recurso clave a los objetivos propios de su negocio. 
 								</p>
 								<h5><b>BENEFICIOS</b></h5>
 								<ul class="list-styled" style="font-weight: bold;">
-									<li>
-										Flexibilidad al volumen de trabajadores de planta.
-									</li>
 									<li>
 										Seguridad y confianza en el manejo de nómina.
 									</li>
@@ -158,6 +155,9 @@
 									</li>
 									<li>
 										Nabe te libera de la responsabilidad del activo laboral.
+									</li>
+									<li>
+										Mantenimiento de la plantilla de personal sin costo de reclutamiento.
 									</li>
 								</ul>
 							</div>

@@ -111,7 +111,7 @@
 					<div class="row">
 						<div class="col-lg-6 animate" data-animation="fadeInLeft">
 							<img src="images/26408.jpg" alt="">
-							<img src="images/Organiz-01.jpg" alt="">
+							<img src="images/Organiz2-01.jpg" alt="">
 						</div>
 						<div class="single-service divider-30 col-lg-6 text-left animate" data-animation="fadeInRight">
 							<div class="content mx-30">
