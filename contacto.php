@@ -180,7 +180,9 @@
 				</div>
 			</section>
 
+<h4><p align='center'>Sucursales</p></h4>
 			<section class="ls collapse-section about">
+
 				<div class="row">
 
 					<div class="col-lg-6 collapse-table">
@@ -188,7 +190,7 @@
 
 							<div class="card-header" role="tab" id="collapse01_header">
 								<h5>
-									<a data-toggle="collapse" href="#collapse01" aria-expanded="true" aria-controls="collapse01">
+									<a data-toggle="collapse" href="#collapse01" aria-expanded="false" aria-controls="collapse01">
 										CORPORATIVO
 									</a>
 								</h5>
