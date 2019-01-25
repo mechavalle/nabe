@@ -118,7 +118,7 @@
                                 	<div class="column-1">
 										<h4 style="line-height: 0em; margin-right: 16px;">
 											<font style="font-weight: bold; color: gray;">Años de</font> 
-											<font style="font-weight: bold; color: #020246;">Experiencia</font>
+											<font style="font-weight: bold; color: #030345;">Experiencia</font>
 										</h4>
 									</div>
 								</div>

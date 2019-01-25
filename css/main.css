@@ -1199,7 +1199,7 @@ textarea.contact {
 }
 
 [role="tablist"] .card-header a {
-	background-color: #020246;
+	background-color: #030345;
 	box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.2);
 	color: #fff;
 	display: block;
@@ -1219,7 +1219,7 @@ textarea.contact {
 }
 
 [role="tablist"] .card-header a.collapsed {
-	background-color: #3b5998;
+	background-color: #263C74; /*background-color: #3b5998;*/
 	color: #fff;
 }
 
@@ -8317,7 +8317,7 @@ select,
 }
 
 .section_gradient {
-	background-color: #020246;
+	background-color: #030345;
 }
 
 /*
@@ -16378,7 +16378,7 @@ span.team-text {
 }
 
 .slider-bottomline {
-	background-color: #020246;
+	background-color: #030345;
 	display: block;
 	margin-top: -180px;
 	z-index: 3;
