@@ -211,7 +211,7 @@
 							</div>
 							<div id="collapse02" class="collapse" role="tabpanel" aria-labelledby="collapse02_header" data-parent="#accordion01">
 								<div class="card-body">
-									Av. 16 de Septiembre #101 Int. 203 Col. Cuautitlán C.P. 54800, EDOMEX<br>
+									Av. 16 de Septiembre #101 Int. 203 Col. Cuautitlán C.P. 54800, EDOMÉX<br>
 									Teléfono: 6843 – 9933
 								</div>
 							</div>

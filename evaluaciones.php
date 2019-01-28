@@ -128,7 +128,7 @@
 						<div class="col-md-6 col-sm-4">
 							<div class="icon-box text-center">
 								<div class="icon-styled fs-56">
-									<a href="estudio_socioeconomico.php"><img style="max-width: 200px;" src="images/debt.png"></a>
+									<a href="estudio_socioeconomico.php"><img style="max-width: 200px;" src="images/eva2.png"></a>
 								</div>
 								<h6>
 									<b><a href="estudio_socioeconomico.php">ESTUDIOS SOCIOECONÓMICOS</a></b>
@@ -140,7 +140,7 @@
 						<div class="col-md-6 col-sm-4">
 							<div class="icon-box text-center">
 								<div class="icon-styled fs-56">
-									<a href="seguridad_higiene.php"><img style="max-width: 200px;" src="images/safety.png"></a>
+									<a href="seguridad_higiene.php"><img style="max-width: 200px;" src="images/eva3.png"></a>
 								</div>
 								<h6>
 									<b><a href="seguridad_higiene.php">SEGURIDAD E HIGIENE</a></b>
@@ -153,7 +153,7 @@
 
 							<div class="icon-box text-center">
 								<div class="icon-styled fs-56">
-									<a href="clima_laboral.php"><img style="max-width: 200px;" src="images/team.png"></a>
+									<a href="clima_laboral.php"><img style="max-width: 200px;" src="images/eva4.png"></a>
 								</div>
 								<h6>
 									<b><a href="clima_laboral.php">CLIMA LABORAL</a></b>
