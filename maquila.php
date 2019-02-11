@@ -111,28 +111,33 @@
 					<div class="row">
 						<div class="col-lg-6 animate" data-animation="fadeInLeft">
 							<img src="images/maquiladora_ap.jpg" alt="">
-							<a href="https://www.universaldemaquila.com" target="_blank"><img src="images/maquilas-01.jpg" alt=""></a>
+							<a href="https://www.universaldemaquila.com" target="_blank"><img src="images/maquilas-2.png" alt=""></a>
 						</div>
 						<div class="single-service divider-30 col-lg-6 text-left animate" data-animation="fadeInRight">
-							<div class="content mx-30">
+							<div class="content mx-30" style="font-size: 19px;">
 								<h4 class="single-service">UNIVERSAL DE MAQUILAS</h4>
 								<p>
 									Realizamos todo tipo de maquila industrial, contamos con amplia experiencia y conocimiento en el segmento, ubicándonos como una excelente opción para tu negocio, somos un eslabón en tu cadena de suministro.
 								</p>
+								<br>
 								<p>
 									OFRECEMOS
 								</p>
 								<ul class="list-styled">
 									<li>
-										Atención permanente a sus necesidades actuales y futuras.
+										Atención permanente a sus necesidades actuales y 
+										<br>&nbsp; &nbsp; &nbsp; &nbsp;futuras.
 									</li>
 									<li>
-										Mantener criterio de selección que nos permitan ingresar personal de alto desempeño.
+										Mantener criterio de selección que nos permitan   
+										<br>&nbsp; &nbsp; &nbsp; &nbsp;ingresar personal de alto desempeño.
 									</li>
 									<li>
-										Definición de un plan anual de operación en beneficio de su empresa.
+										Definición de un plan anual de operación en beneficio
+										<br>&nbsp; &nbsp; &nbsp; &nbsp;de su empresa.
 									</li>
 								</ul>
+								<br><br><br><br>
 								<p>
 									OPERACIONES INPLANT
 								</p>

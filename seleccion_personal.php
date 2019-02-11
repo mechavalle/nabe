@@ -110,7 +110,7 @@
 					<div class="d-none d-lg-block divider-30"></div>
 					<div class="row">
 						<div class="col-lg-6 animate" data-animation="fadeInLeft">
-							<img src="images/Reclut.jpg" alt="">
+							<img src="images/Reclut2.jpg" alt="">
 						</div>
 						<div class="single-service divider-30 col-lg-6 text-left animate" data-animation="fadeInRight">
 							<div class="content mx-30">
@@ -132,7 +132,8 @@
 										Respuesta en 72 horas.
 									</li>
 									<li>
-										Candidatos 100% confiables y compatibles con los requerimientos del puesto.
+										Candidatos 100% confiables y compatibles con los 
+										<br>&nbsp; &nbsp; &nbsp; &nbsp; requerimientos del puesto.
 									</li>
 									<li>
 										Disminución de costos en tiempo y dinero.
@@ -141,12 +142,6 @@
 										Disminución en la rotación del personal.
 									</li>
 								</ul>
-								<p>
-									Buscamos los puestos clave en todas las áreas críticas de tu organización.
-								</p>
-								<p>
-									<b>Tenemos cobertura en toda la República Mexicana.</b> 
-								</p>
 							</div>
 						</div>
 					</div>

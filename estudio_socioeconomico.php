@@ -124,13 +124,15 @@
 								</p>
 								<ul class="list-styled">
 									<li>
-										<b>MANDOS SUPERIORES:</b> Directores, Subdirectores, Gerentes y Subgerentes.
+										<b>MANDOS SUPERIORES:</b> Directores, Subdirectores, Gerentes y 
+										<br>&nbsp; &nbsp; &nbsp; &nbsp; Subgerentes.
 									</li>
 									<li>
 										<b>MANDOS MEDIOS:</b> Supervisores, Jefaturas, Ventas Técnicas.
 									</li>
 									<li>
-										<b>NIVEL ADMINISTRATIVO:</b> Secretarias, Recepcionistas, Auxiliares, Asistentes y Vendedores.
+										<b>NIVEL ADMINISTRATIVO:</b> Secretarias, Recepcionistas, 
+										<br>&nbsp; &nbsp; &nbsp; &nbsp; Auxiliares, Asistentes y Vendedores.
 									</li>
 								</ul>
 								<p>
@@ -144,7 +146,7 @@
 										Confidencialidad.
 									</li>
 									<li>
-										Tiempo de respuesta 48 a 72 Horas.
+										Tiempo de respuesta 48 a 72 horas.
 									</li>
 								</ul>
 							</div>

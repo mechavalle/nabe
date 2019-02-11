@@ -111,7 +111,7 @@
 					<div class="row">
 						<div class="col-lg-6 animate" data-animation="fadeInLeft">
 							<img src="images/AdmonPersonal.jpg" alt="">
-							<img src="images/beneficios-01.jpg" alt="">
+							<img src="images/beneficios-02.jpg" alt="">
 						</div>
 						<div class="single-service divider-30 col-lg-6 text-left animate" data-animation="fadeInRight">
 							<div class="content mx-30">
@@ -142,7 +142,8 @@
 										Seguridad y confianza en el manejo de nómina.
 									</li>
 									<li>
-										Ahorro de costos en la administración y pagos de nómina.
+										Ahorro de costos en la administración y pagos de 
+										<br>&nbsp; &nbsp; &nbsp; &nbsp; nómina.
 									</li>
 									<li>
 										Incremento en la productividad de la fuerza laboral. 
@@ -151,13 +152,15 @@
 										Tranquilidad al reducir riesgos y conflictos laborales.
 									</li>
 									<li>
-										Cumplimiento legal asociado a la relación laboral de empresa con empleado (IMSS, INFONAVIT).
+										Cumplimiento legal asociado a la relación laboral de empresa 
+										<br>&nbsp; &nbsp; &nbsp; &nbsp; con empleado (IMSS, INFONAVIT).
 									</li>
 									<li>
 										Nabe te libera de la responsabilidad del activo laboral.
 									</li>
 									<li>
-										Mantenimiento de la plantilla de personal sin costo de reclutamiento.
+										Mantenimiento de la plantilla de personal sin costo de 
+										<br>&nbsp; &nbsp; &nbsp; &nbsp; reclutamiento.
 									</li>
 								</ul>
 							</div>

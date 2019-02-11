@@ -136,7 +136,7 @@
 										Procesos obsoletos.
 									</li>
 									<li>
-										Baja competitividad con la competencia.
+										Baja competitividad.
 									</li>
 								</ul>
 								<p>
@@ -145,19 +145,25 @@
 								<h5><b>OFRECEMOS</b></h5>
 								<ul class="list-styled">
 									<li>
-										Garantía en costos y tiempos para la obtención de Capital Humano.
+										Garantía en costos y tiempos para la obtención de Capital 
+										<br>&nbsp; &nbsp; &nbsp; &nbsp; Humano.
 									</li>
 									<li>
-										Estrategias de reclutamiento efectivas para la obtención de buenos resultados.
+										Estrategias de reclutamiento efectivas para la obtención de 
+										<br>&nbsp; &nbsp; &nbsp; &nbsp; buenos resultados.
 									</li>
 									<li>
-										Servicio de calidad y trato personalizado a cada uno de nuestros clientes. 
+										Servicio de calidad y trato personalizado a cada uno de nuestros 
+										<br>&nbsp; &nbsp; &nbsp; &nbsp; clientes. 
 									</li>
 									<li>
-										Respuesta en un tiempo de 24 a 72 horas hábiles a partir del requerimiento solicitado. 
+										Respuesta en un tiempo de 24 a 72 horas hábiles a partir del 
+										<br>&nbsp; &nbsp; &nbsp; &nbsp; requerimiento solicitado. 
 									</li>
 									<li>
-										Apoyo en la elaboración y análisis de sus perfiles, para cubrir las vacantes de su empresa de acuerdo a las características que busca. 
+										Apoyo en la elaboración y análisis de sus perfiles, para cubrir las 
+										<br>&nbsp; &nbsp; &nbsp; &nbsp; vacantes de su empresa de acuerdo a las características que 
+										<br>&nbsp; &nbsp; &nbsp; &nbsp; busca. 
 									</li>
 								</ul>
 							</div>

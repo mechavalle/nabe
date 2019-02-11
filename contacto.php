@@ -244,7 +244,7 @@
 							<div id="collapse04" class="collapse" role="tabpanel" aria-labelledby="collapse04_header" data-parent="#accordion01">
 								<div class="card-body">
 									<p>
-										Mariano Matamoros # Col. Centro C.P. 64000, Monterrey, N.L.<br>
+										Mariano Matamoros #925 Col. Centro C.P. 64000, Monterrey, N.L.<br>
 										Teléfono: 2261 - 1370
 									</p>
 								</div>

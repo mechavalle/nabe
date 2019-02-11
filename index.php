@@ -89,13 +89,11 @@
 							<div class="intro_layers_wrapper">
 								<div class="intro_layers">
 									<div class="intro_layer" data-animation="fadeInLeft">
-										<h3 class="intro_before_featured_word">
-											TE AYUDAMOS A ENCONTRAR
-										</h3>
+										<h3 class="intro_before_featured_word"></h3>
 									</div>
 									<div class="intro_layer" data-animation="fadeInRight">
 										<h2 class="text-uppercase intro_featured_word">
-											EL PUESTO INDICADO
+											SOLUCIONES EN CAPITAL HUMANO
 										</h2>
 									</div>
 									<div class="intro_layer" data-animation="fadeIn">
@@ -162,7 +160,7 @@
                                     	<h2>23</h2>
                                 	</div>
                                 	<div class="column-1">
-										<h4 style="line-height: 0em; margin-right: 16px;"><font style="font-weight: bold; color: gray;">Años de</font> <font style="font-weight: bold; color: #030345;">Experiencia</font></h4>
+										<h4 style="line-height: 0em; margin-right: 18px;"><font style="font-weight: bold; color: gray;">Años de</font> <font style="font-weight: bold; color: #030345;">experiencia</font></h4>
 									</div>
 								</div>
 								<div class="column-1">

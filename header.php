@@ -21,9 +21,6 @@
 						<!-- eof .header_left_logo -->
 					</div>
 				</div>
-				<div class="col-lg-4">
-					<button class="btn-outline-darkgrey  d-none d-lg-block">¿Buscas personal?</button>
-				</div>
 			</div>
 		</div>
 	</section>

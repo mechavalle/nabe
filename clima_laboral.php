@@ -111,30 +111,35 @@
 					<div class="row">
 						<div class="col-lg-6 animate" data-animation="fadeInLeft">
 							<img src="images/26408.jpg" alt="">
-							<img src="images/Organiz2-01.jpg" alt="">
+							<img src="images/Organiz-01.png" alt="">
 						</div>
 						<div class="single-service divider-30 col-lg-6 text-left animate" data-animation="fadeInRight">
 							<div class="content mx-30">
 								<h4 class="single-service">CLIMA LABORAL</h4>
 								<p>
 									<b>OBJETIVO GENERAL</b><br>
-									Analizar y determinar el Clima Organizacional existente en la Empresa.
+									Analizar y determinar el Clima Organizacional existente en la empresa.
 								</p>
 								<P>
 									<b>OBJETIVOS ESPECÍFICOS</b>
 								</P>
 								<ul class="list-styled">
 									<li>
-										Identificar la adaptación del trabajador al puesto que desempeña, capacitación, motivación, comunicación, remuneración.
+										Identificar la adaptación del trabajador al puesto que 
+										<br>&nbsp; &nbsp; &nbsp; &nbsp; desempeña, capacitación, motivación, comunicación, 
+										<br>&nbsp; &nbsp; &nbsp; &nbsp; remuneración.
 									</li>
 									<li>
-										Analizar y mejorar los factores que contribuyen o afectan el trabajo en equipo.
+										Analizar y mejorar los factores que contribuyen o afectan el 
+										<br>&nbsp; &nbsp; &nbsp; &nbsp; trabajo en equipo.
 									</li>
 									<li>
-										Conocer los aspectos que cambiarían para mejorar el bienestar de la empresa y de trabajador.
+										Conocer los aspectos que cambiarían para mejorar el 
+										<br>&nbsp; &nbsp; &nbsp; &nbsp; bienestar de la empresa y de trabajador.
 									</li>
 									<li>
-										Conocer los valores de la organización que identifican los trabajadores.
+										Conocer los valores de la organización que identifican los 
+										<br>&nbsp; &nbsp; &nbsp; &nbsp; trabajadores.
 									</li>
 								</ul>
 							</div>

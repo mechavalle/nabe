@@ -32,6 +32,10 @@
 
 </head>
 
+<style type="text/css">
+	.mx-30{  }
+</style>
+
 <body>
 	<!--[if lt IE 9]>
 		<div class="bg-danger text-center">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/" class="color-main">upgrade your browser</a> to improve your experience.</div>
@@ -129,67 +133,67 @@
 						<div class="col-lg-12 animate" data-animation="fadeInCenter">
 							<img src="images/cursos-01.png" alt="">
 						</div>
-						<div class="row">
-							<div class="single-service divider-30 col-lg-6 text-left animate" data-animation="fadeInLeft">
-								<div class="content mx-30">
-									<p>
-										<b>Algunos de los cursos que impartimos son:</b>
-									</p>
-									<ul class="list-styled">
-										<li>
-											Primeros auxilios.
-										</li>
-										<li>
-											Recipientes sujetos a presión condiciones de seguridad.
-										</li>
-										<li>
-											Manejo de materiales peligrosos.
-										</li>
-										<li>
-											Manejo seguro de montacargas.
-										</li>
-										<li>
-											Metodologías para la prevención de accidentes.
-										</li>
-										<li>
-											Sistema de Gestión Ambiental.
-										</li>
-										<li>
-											Manejo de estrés laboral.
-										</li>
-										<li>
-											Desarrollo de habilidades.
-										</li>
-									</ul>
-								</div>
+						<div class="single-service divider-30 col-lg-6 text-left animate" data-animation="fadeInLeft">
+							<div class="content mx-30">
+								<p>
+									<b>Algunos de los cursos que impartimos son:</b>
+								</p>
+								<ul class="list-styled">
+									<li>
+										Primeros auxilios.
+									</li>
+									<li>
+										Recipientes sujetos a presión condiciones de seguridad.
+									</li>
+									<li>
+										Manejo de materiales peligrosos.
+									</li>
+									<li>
+										Manejo seguro de montacargas.
+									</li>
+									<li>
+										Metodologías para la prevención de accidentes.
+									</li>
+									<li>
+										Sistema de Gestión Ambiental.
+									</li>
+									<li>
+										Manejo de estrés laboral.
+									</li>
+									<li>
+										Desarrollo de habilidades.
+									</li>
+								</ul>
 							</div>
-							<div class="single-service divider-30 col-lg-6 text-left animate" data-animation="fadeInRight">
-								<div class="content mx-30">
-									<ul class="list-styled">
-										<p>&nbsp;</p>
-										<li>
-											Formación de auditores internos en sig. con base en ISO 9001:2008 e ISO 19011:2011
-										</li>
-										<li>
-											Trabajos en alturas.
-										</li>
-										<li>
-											Corte y soldadura – Trabajos en caliente.
-										</li>
-										<li>
-											Formación de instructores.
-										</li>
-										<li>
-											ISO 9001:2015 Sistemas de calidad – Requisitos.
-										</li>
-										<li>
-											ISO 140001:2015 Sistemas de Gestión Ambiental – Requisitos.
-										</li>
-										<li>
-											ISO 45001:2018-Sistemas de Gestión de la Seguridad y Salud en el Trabajo.
-										</li>
-									</ul>
-								</div>
+						</div>
+						<div class="single-service divider-30 col-lg-6 text-left animate" data-animation="fadeInRight">
+							<div class="content">
+								<ul class="list-styled">
+									<p>&nbsp;</p>
+									<li>
+										Formación de auditores internos en sig. con base en ISO 9001:2008 e ISO 
+										<br>&nbsp; &nbsp; &nbsp; &nbsp; 19011:2011
+									</li>
+									<li>
+										Trabajos en alturas.
+									</li>
+									<li>
+										Corte y soldadura – Trabajos en caliente.
+									</li>
+									<li>
+										Formación de instructores.
+									</li>
+									<li>
+										ISO 9001:2015 Sistemas de calidad – Requisitos.
+									</li>
+									<li>
+										ISO 140001:2015 Sistemas de Gestión Ambiental – Requisitos.
+									</li>
+									<li>
+										ISO 45001:2018 Sistemas de Gestión de la Seguridad y Salud en el 
+										<br>&nbsp; &nbsp; &nbsp; &nbsp; Trabajo.
+									</li>
+								</ul>
 							</div>
 						</div>
 					</div>

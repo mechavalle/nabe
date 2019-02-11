@@ -32,6 +32,10 @@
 
 </head>
 
+<style type="text/css">
+	.services1 .item-content h4{ font-size: 16px; }
+</style>
+
 <body>
 	<!--[if lt IE 9]>
 		<div class="bg-danger text-center">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/" class="color-main">upgrade your browser</a> to improve your experience.</div>
@@ -133,7 +137,7 @@
 								</div>
 								<div class="item-content box services">
 									<h4>
-										<a href="reclutamiento.php">RECLUTAMIENTO ESPECIALIZADO<br><br></a>
+										<a href="reclutamiento.php">RECLUTAMIENTO ESPECIALIZADO<br></a>
 									</h4>
 									<p>
 									</p>
@@ -152,7 +156,7 @@
 								</div>
 								<div class="item-content box services">
 									<h4>
-										<a href="admon_personal.php">ADMINISTRACIÓN DE PERSONAL<br><br></a>
+										<a href="admon_personal.php">ADMINISTRACIÓN DE PERSONAL<br></a>
 									</h4>
 									<p>
 									</p>
@@ -171,7 +175,7 @@
 								</div>
 								<div class="item-content box services">
 									<h4>
-										<a href="maquila.php">UNIVERSAL DE MAQUILAS<br><br></a>
+										<a href="maquila.php">UNIVERSAL DE <br>MAQUILAS<br></a>
 									</h4>
 									<p>
 									</p>

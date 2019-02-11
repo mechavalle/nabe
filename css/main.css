@@ -6719,7 +6719,7 @@ body.boxed {
 
 /* vertical media item */
 .vertical-item .item-media + .item-content {
-	padding: 35px 48px 43px 48px;
+	padding: 35px 20px 43px 20px; /* anterior padding: 35px 48px 43px 48px;*/
 }
 
 .vertical-item.content-padding .item-content {
@@ -10727,7 +10727,7 @@ widget_recent_entries
 */
 /* social icon layout */
 .social-icons {
-	padding: 10px 0 0 0;
+	padding: 10px 100px 0 0; /* anterior padding: 10px 0 0 0;*/
 }
 
 .social-icons .fa {
@@ -14003,7 +14003,7 @@ a.logo {
 
 a.logo img {
 	display: inline-block;
-	max-height: 120px;
+	max-height: 150px; /* anterior max-height: 120px;*/
 }
 
 a.logo .logo-text {
@@ -17014,6 +17014,7 @@ footer .media a:hover {
 .single-service ul.list-styled li {
 	padding-bottom: 8px;
 	padding-left: 0;
+	padding-right: 0;
 }
 
 @media (max-width: 998px) {
