@@ -92,7 +92,7 @@
 										<h3 class="intro_before_featured_word"></h3>
 									</div>
 									<div class="intro_layer" data-animation="fadeInRight">
-										<h2 class="text-uppercase intro_featured_word">
+										<h2 class="text-uppercase intro_featured_word" style="text-shadow: 2px -1px 12px rgba(15, 15, 15, 0.5);">
 											SOLUCIONES EN CAPITAL HUMANO
 										</h2>
 									</div>
@@ -225,7 +225,7 @@
 								</div>
 								<div class="col-sm-12">
 									<div class="form-group text-center">
-										<button type="submit" id="contact_form_submit" name="contact_submit" class="button">Enviar</button>
+										<button type="submit" id="contact_form_submit" name="contact_submit" class="button" style="background-color: #fff;     color: #808080; box-shadow: 3px 3px grey;">Enviar</button>
 									</div>
 								</div>
 							</form>
