@@ -82,7 +82,7 @@
 		    ?> 
 
 			<section class="page_slider cs text-center">
-				<img src="images/home1.jpg" alt="">
+				<img src="images/home3.jpg" alt="">
 				<div class="container-fluid">
 					<div class="row">
 						<div class="col-sm-12">
@@ -92,7 +92,7 @@
 										<h3 class="intro_before_featured_word"></h3>
 									</div>
 									<div class="intro_layer" data-animation="fadeInRight">
-										<h2 class="text-uppercase intro_featured_word" style="text-shadow: 2px -1px 12px rgba(15, 15, 15, 0.5);">
+										<h2 class="text-uppercase intro_featured_word" style="text-shadow: -8px 5px 12px rgba(15, 15, 15, 0.5);">
 											SOLUCIONES EN CAPITAL HUMANO
 										</h2>
 									</div>

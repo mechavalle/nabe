@@ -14868,7 +14868,7 @@ body.active-side-header.slide-right .page_header_side {
 	.page_slider .intro_layers_wrapper .intro_featured_word {
 		font-size: 60px;
 		font-weight: 600;
-		padding: 20px 0 30px;
+		padding: 250px 0 30px; /* anterior padding: 20px 0 30px;*/
 	}
 
 	.page_slider .intro_layers_wrapper .intro_before_featured_word {
