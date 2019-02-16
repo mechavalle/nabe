@@ -134,7 +134,7 @@
 							<img src="images/cursos-01.png" alt="">
 						</div>
 						<div class="single-service divider-30 col-lg-6 text-left animate" data-animation="fadeInLeft">
-							<div class="content mx-30">
+							<div class="content mx-30 responsive">
 								<p>
 									<b>Algunos de los cursos que impartimos son:</b>
 								</p>
@@ -171,8 +171,8 @@
 								<ul class="list-styled">
 									<p>&nbsp;</p>
 									<li>
-										Formación de auditores internos en sig. con base en ISO 9001:2008 e ISO 
-										<br>&nbsp; &nbsp; &nbsp; &nbsp; 19011:2011
+										Formación de auditores internos en sig. con base en ISO 9001:2008 e  
+										<br>&nbsp; &nbsp; &nbsp; &nbsp; ISO 19011:2011
 									</li>
 									<li>
 										Trabajos en alturas.

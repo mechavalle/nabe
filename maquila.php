@@ -133,12 +133,12 @@
 										<br>&nbsp; &nbsp; &nbsp; &nbsp;ingresar personal de alto desempeño.
 									</li>
 									<li>
-										Definición de un plan anual de operación en beneficio
-										<br>&nbsp; &nbsp; &nbsp; &nbsp;de su empresa.
+										Definición de un plan anual de operación 
+										<br>&nbsp; &nbsp; &nbsp; &nbsp;en beneficio de su empresa.
 									</li>
 								</ul>
 								
-								<p style="margin-top: 102px">
+								<p style="margin-top: 100px">
 									OPERACIONES INPLANT
 								</p>
 							</div>

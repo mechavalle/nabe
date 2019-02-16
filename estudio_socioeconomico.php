@@ -124,11 +124,12 @@
 								</p>
 								<ul class="list-styled">
 									<li>
-										<b>MANDOS SUPERIORES:</b> Directores, Subdirectores, Gerentes y 
-										<br>&nbsp; &nbsp; &nbsp; &nbsp; Subgerentes.
+										<b>MANDOS SUPERIORES:</b> Directores, Subdirectores,  
+										<br>&nbsp; &nbsp; &nbsp; &nbsp; Gerentes y Subgerentes.
 									</li>
 									<li>
-										<b>MANDOS MEDIOS:</b> Supervisores, Jefaturas, Ventas Técnicas.
+										<b>MANDOS MEDIOS:</b> Supervisores, Jefaturas, Ventas 
+										<br>&nbsp; &nbsp; &nbsp; &nbsp; Técnicas.
 									</li>
 									<li>
 										<b>NIVEL ADMINISTRATIVO:</b> Secretarias, Recepcionistas, 
@@ -155,7 +156,6 @@
 					<div class="d-none d-lg-block divider-20"></div>
 				</div>
 			</section>
-
 		</div>
 		<!-- eof #box_wrapper -->
 	</div>

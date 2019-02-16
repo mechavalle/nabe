@@ -152,8 +152,8 @@
 										Tranquilidad al reducir riesgos y conflictos laborales.
 									</li>
 									<li>
-										Cumplimiento legal asociado a la relación laboral de empresa 
-										<br>&nbsp; &nbsp; &nbsp; &nbsp; con empleado (IMSS, INFONAVIT).
+										Cumplimiento legal asociado a la relación laboral de  
+										<br>&nbsp; &nbsp; &nbsp; &nbsp; empresa con empleado (IMSS, INFONAVIT).
 									</li>
 									<li>
 										Nabe te libera de la responsabilidad del activo laboral.

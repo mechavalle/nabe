@@ -153,17 +153,17 @@
 										<br>&nbsp; &nbsp; &nbsp; &nbsp; buenos resultados.
 									</li>
 									<li>
-										Servicio de calidad y trato personalizado a cada uno de nuestros 
-										<br>&nbsp; &nbsp; &nbsp; &nbsp; clientes. 
+										Servicio de calidad y trato personalizado a cada uno de  
+										<br>&nbsp; &nbsp; &nbsp; &nbsp; nuestros clientes. 
 									</li>
 									<li>
 										Respuesta en un tiempo de 24 a 72 horas hábiles a partir del 
 										<br>&nbsp; &nbsp; &nbsp; &nbsp; requerimiento solicitado. 
 									</li>
 									<li>
-										Apoyo en la elaboración y análisis de sus perfiles, para cubrir las 
-										<br>&nbsp; &nbsp; &nbsp; &nbsp; vacantes de su empresa de acuerdo a las características que 
-										<br>&nbsp; &nbsp; &nbsp; &nbsp; busca. 
+										Apoyo en la elaboración y análisis de sus perfiles, para cubrir 
+										<br>&nbsp; &nbsp; &nbsp; &nbsp; las vacantes de su empresa de acuerdo a las características  
+										<br>&nbsp; &nbsp; &nbsp; &nbsp; que busca. 
 									</li>
 								</ul>
 							</div>
