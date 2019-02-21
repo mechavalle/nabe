@@ -110,7 +110,11 @@
 					<div class="d-none d-lg-block divider-30"></div>
 					<div class="row">
 						<div class="col-lg-6 animate" data-animation="fadeInLeft">
-							<img src="images/Reclut2.jpg" alt="">
+							<img src="images/Reclut.jpg" alt="" style="position: relative;">
+							<p style="text-align: justify; position: absolute; left: 370px; top: 350px;">Tenemos cobertura<br> en toda la República<br> Mexicana.</p>
+							<ul class="list-styled" style="font-weight: bold; text-align: center;">
+								Buscamos los puestos claves<br> en todas las áreas críticas de<br> tu organización.
+							</ul>
 						</div>
 						<div class="single-service divider-30 col-lg-6 text-left animate" data-animation="fadeInRight">
 							<div class="content mx-30">

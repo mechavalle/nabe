@@ -6719,7 +6719,7 @@ body.boxed {
 
 /* vertical media item */
 .vertical-item .item-media + .item-content {
-	padding: 35px 20px 43px 20px; /* anterior padding: 35px 48px 43px 48px;*/
+	padding: 35px 10px 43px 10px; /* anterior padding: 35px 48px 43px 48px;*/
 }
 
 .vertical-item.content-padding .item-content {

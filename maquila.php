@@ -111,7 +111,6 @@
 					<div class="row">
 						<div class="col-lg-6 animate" data-animation="fadeInLeft">
 							<img src="images/maquiladora_ap.jpg" alt="">
-							<a href="https://www.universaldemaquila.com" target="_blank"><img src="images/maquilas-2.png" alt=""></a>
 						</div>
 						<div class="single-service divider-30 col-lg-6 text-left animate" data-animation="fadeInRight">
 							<div class="content mx-30" style="font-size: 19px;">
@@ -137,11 +136,15 @@
 										<br>&nbsp; &nbsp; &nbsp; &nbsp;en beneficio de su empresa.
 									</li>
 								</ul>
-								
-								<p style="margin-top: 100px">
-									OPERACIONES INPLANT
-								</p>
 							</div>
+						</div>
+						<div class="col-lg-6 animate" data-animation="fadeInLeft" style="margin-bottom: 0px; margin-top: -100px;">
+							<a href="https://www.universaldemaquila.com" target="_blank"><img src="images/maquilas-2.png" alt=""></a>
+						</div>
+						<div class="single-service divider-30 col-lg-6 text-left animate" data-animation="fadeInRight" style="margin-top: auto;">
+							<p>
+								<b>OPERACIONES INPLANT</b>
+							</p>
 						</div>
 					</div>
 					<div class="d-none d-lg-block divider-20"></div>

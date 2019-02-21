@@ -119,7 +119,7 @@
 									</div>
 								</div>
 								<div class="item-content box services">
-									<h4>
+									<h4 style="padding: 15px 10px 13px 10px;">
 										<a href="seleccion_personal.php">RECLUTAMIENTO Y SELECCIÓN DE PERSONAL</a>
 									</h4>
 								</div>
@@ -136,8 +136,8 @@
 									</div>
 								</div>
 								<div class="item-content box services">
-									<h4>
-										<a href="reclutamiento.php">RECLUTAMIENTO ESPECIALIZADO<br></a>
+									<h4 style="padding: 15px 10px 13px 10px;">
+										<a href="reclutamiento.php">RECLUTAMIENTO ESPECIALIZADO</a>
 									</h4>
 									<p>
 									</p>
@@ -155,8 +155,8 @@
 									</div>
 								</div>
 								<div class="item-content box services">
-									<h4>
-										<a href="admon_personal.php">ADMINISTRACIÓN DE PERSONAL<br></a>
+									<h4 style="padding: 15px 10px 13px 10px;">
+										<a href="admon_personal.php">ADMINISTRACIÓN <br>DE PERSONAL</a>
 									</h4>
 									<p>
 									</p>
@@ -174,8 +174,8 @@
 									</div>
 								</div>
 								<div class="item-content box services">
-									<h4>
-										<a href="maquila.php">UNIVERSAL DE <br>MAQUILAS<br></a>
+									<h4 style="padding: 15px 10px 13px 10px;">
+										<a href="maquila.php">UNIVERSAL <br>DE MAQUILAS</a>
 									</h4>
 									<p>
 									</p>
