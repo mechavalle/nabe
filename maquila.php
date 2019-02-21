@@ -142,9 +142,11 @@
 							<a href="https://www.universaldemaquila.com" target="_blank"><img src="images/maquilas-2.png" alt=""></a>
 						</div>
 						<div class="single-service divider-30 col-lg-6 text-left animate" data-animation="fadeInRight" style="margin-top: auto;">
-							<p>
-								<b>OPERACIONES INPLANT</b>
-							</p>
+							<div class="content mx-30" style="font-size: 19px;">
+								<p>
+									OPERACIONES INPLANT
+								</p>
+							</div>
 						</div>
 					</div>
 					<div class="d-none d-lg-block divider-20"></div>
