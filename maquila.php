@@ -138,7 +138,7 @@
 								</ul>
 							</div>
 						</div>
-						<div class="col-lg-6 animate" data-animation="fadeInLeft" style="margin-bottom: 0px; margin-top: -100px;">
+						<div class="col-lg-6 animate" data-animation="fadeInLeft" style="margin-bottom: -7px; margin-top: -100px;">
 							<a href="https://www.universaldemaquila.com" target="_blank"><img src="images/maquilas-2.png" alt=""></a>
 						</div>
 						<div class="single-service divider-30 col-lg-6 text-left animate" data-animation="fadeInRight" style="margin-top: auto;">
