@@ -33,7 +33,7 @@
 </head>
 
 <style type="text/css">
-	.services1 .item-content h4{ font-size: 16px; }
+	.services1 .item-content h4{ font-size: 19px; }
 </style>
 
 <body>
@@ -110,7 +110,7 @@
 					<div class="row">
 						<div class="d-none d-lg-block divider-80"></div>
 
-						<div class="col-md-6 col-lg-3">
+						<div class="col-md-6 col-lg-4">
 							<div class="vertical-item text-center item-content">
 								<div class="item-media">
 									<img src="images/77.jpg" alt="">
@@ -119,7 +119,7 @@
 									</div>
 								</div>
 								<div class="item-content box services">
-									<h4 style="padding: 15px 10px 13px 10px;">
+									<h4 style="margin-bottom: 0px;">
 										<a href="seleccion_personal.php">RECLUTAMIENTO Y SELECCIÓN DE PERSONAL</a>
 									</h4>
 								</div>
@@ -127,7 +127,7 @@
 						</div>
 						<!-- .col-* -->
 
-						<div class="col-md-6 col-lg-3">
+						<div class="col-md-6 col-lg-4">
 							<div class="vertical-item text-center item-content">
 								<div class="item-media">
 									<img src="images/O6ZK030.jpg" alt="">
@@ -136,17 +136,15 @@
 									</div>
 								</div>
 								<div class="item-content box services">
-									<h4 style="padding: 15px 10px 13px 10px;">
+									<h4 style="margin-bottom: 0px;">
 										<a href="reclutamiento.php">RECLUTAMIENTO ESPECIALIZADO</a>
 									</h4>
-									<p>
-									</p>
 								</div>
 							</div>
 						</div>
 						<!-- .col-* -->
 
-						<div class="col-md-6 col-lg-3">
+						<div class="col-md-6 col-lg-4">
 							<div class="vertical-item text-center item-content">
 								<div class="item-media">
 									<img src="images/960.jpg" alt="">
@@ -155,17 +153,15 @@
 									</div>
 								</div>
 								<div class="item-content box services">
-									<h4 style="padding: 15px 10px 13px 10px;">
+									<h4 style="margin-bottom: 0px;">
 										<a href="admon_personal.php">ADMINISTRACIÓN <br>DE PERSONAL</a>
 									</h4>
-									<p>
-									</p>
 								</div>
 							</div>
 						</div>
 						<!-- .col-* -->
 
-						<div class="col-md-6 col-lg-3">
+						<?/*<div class="col-md-6 col-lg-3">
 							<div class="vertical-item text-center item-content">
 								<div class="item-media">
 									<img src="images/maquiladora_ap.jpg" alt="" style="height: 165px;">
@@ -181,7 +177,7 @@
 									</p>
 								</div>
 							</div>
-						</div>
+						</div>*/?>
 						<!-- .col-* -->
 
 						<div class="d-none d-lg-block divider-30"></div>

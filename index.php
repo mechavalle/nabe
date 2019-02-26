@@ -165,7 +165,7 @@
 								</div>
 								<div class="column-1">
 									<p>
-										Somos una empresa de profesionales con 23 años de experiencia <font style="font-weight: bold; font-size: 18px;">orientada a ofrecer soluciones integrales en Capital Humano</font>, conformada por profesionales certificados, dedicados a satisfacer las necesidades específicas de nuestros clientes.
+										Somos una empresa con 23 años de experiencia <font style="font-weight: bold; font-size: 18px;">orientada a ofrecer soluciones integrales en Capital Humano</font>, conformada por profesionales certificados, dedicados a satisfacer las necesidades específicas de nuestros clientes.
 									</p>
 								</div>
 							</div>
