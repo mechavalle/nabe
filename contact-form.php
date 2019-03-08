@@ -4,19 +4,19 @@
 //////////////////////////
 
 //Your E-mail
-$your_email = 'your@email.com';
+$your_email = 'soluciones.empresariales@nabese.com';
 
 //Default Subject if 'subject' field not specified
-$default_subject = 'From My Contact Form';
+$default_subject = 'Correo de sección Contacto';
 
 //Message if 'name' field not specified
-$name_not_specified = 'Please type a valid name';
+$name_not_specified = 'Especifique un nombre válido';
 
 //Message if e-mail sent successfully
-$email_was_sent = 'Thanks, your message successfully sent';
+$email_was_sent = 'Gracias, su mensaje fue enviado correctamente';
 
 //Message if e-mail not sent (server not configured)
-$server_not_configured = 'Sorry, mail server not configured (function "mail()" disabled on your server?)';
+$server_not_configured = 'Error, mail server no configurado (¿ la función "mail()" está deshabilitada en su servidor?)';
 
 
 ///////////////////////////
@@ -74,7 +74,7 @@ if(isset($_POST['name'])) {
 			$message_meta .= stripslashes(strip_tags(trim($key))) . ': ' . stripslashes(strip_tags(trim($value))) . "<br>";
 		}
 
-		$message = $message_meta . "<br>" . 'Message:' . "<br>" . $message;
+		$message = $message_meta . "<br>" . 'Mensaje:' . "<br>" . $message;
 		$message = wordwrap($message, 70);
 	
 		if (mail($your_email, $subject, $message, $from)) {

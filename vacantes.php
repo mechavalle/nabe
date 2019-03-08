@@ -122,28 +122,28 @@
 									<label for="name">Full Name
 										<span class="required">*</span>
 									</label>
-									<input type="text" aria-required="true" size="200" value="" name="your-name" id="name" class="form-control" placeholder="Nombre">
+									<input type="text" aria-required="true" size="200" value="" name="name" id="name" class="form-control" placeholder="Nombre">
 								</div>
 								<div class="col-c-mb-60 form-group has-placeholder">
 									<label for="text">Phone number
 										<span class="required">*</span>
 									</label>
-									<input type="text" aria-required="true" size="200" value="" name="text" id="text" class="form-control" placeholder="Teléfono">
+									<input type="text" aria-required="true" size="200" value="" name="telephone" id="telephone" class="form-control" placeholder="Teléfono">
 								</div>
 								<div class="col-c-mb-60 form-group has-placeholder">
 									<label for="email">Email address
 										<span class="required">*</span>
 									</label>
-									<input type="email" aria-required="true" size="200" value="" name="your-email" id="email" class="form-control" placeholder="Email">
+									<input type="email" aria-required="true" size="200" value="" name="email" id="email" class="form-control" placeholder="Email">
 								</div>
 								<div class="col-c-mb-60 form-group has-placeholder">
 									<label for="text">Job sector
 										<span class="required">*</span>
 									</label>
-									<input type="text" aria-required="true" size="200" value="" name="text" id="text" class="form-control" placeholder="Puesto Solicitado">
+									<input type="text" aria-required="true" size="200" value="" name="puesto" id="puesto" class="form-control" placeholder="Puesto Solicitado">
 								</div>
 								<div class="col-c-mb-60 form-group">
-									<input type="file" class="custom-file-input button" id="validatedCustomFile">
+									<input type="file" class="custom-file-input button" name='attach' id="validatedCustomFile">
 									<label class="custom-file-label" for="validatedCustomFile">Adjuntar CV en PDF</label>
 								</div>
 								<div class="row mt-1">
