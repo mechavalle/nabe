@@ -13,6 +13,9 @@
 	<!--[if IE]>
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<![endif]-->
+
+
+
 	<meta name="description" content="">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
@@ -111,85 +114,85 @@
 								Envíanos tu CV
 							</h4>
 						</div>
-						<form class="contact-form contact2 c-mb-20 animate" data-animation="pullUp" method="post" action="/">
-							<div class="row">
-								<div class="col-xs-12 col-sm-6">
-									<div class="col-c-mb-60 form-group has-placeholder">
-										<label for="name">Full Name
-											<span class="required">*</span>
-										</label>
-										<input type="text" aria-required="true" size="200" value="" name="your-name" id="name" class="form-control" placeholder="Nombre">
-									</div>
-									<div class="col-c-mb-60 form-group has-placeholder">
-										<label for="text">Phone number
-											<span class="required">*</span>
-										</label>
-										<input type="text" aria-required="true" size="200" value="" name="text" id="text" class="form-control" placeholder="Teléfono">
-									</div>
-									<div class="col-c-mb-60 form-group has-placeholder">
-										<label for="email">Email address
-											<span class="required">*</span>
-										</label>
-										<input type="email" aria-required="true" size="200" value="" name="your-email" id="email" class="form-control" placeholder="Email">
-									</div>
-									<div class="col-c-mb-60 form-group has-placeholder">
-										<label for="text">Job sector
-											<span class="required">*</span>
-										</label>
-										<input type="text" aria-required="true" size="200" value="" name="text" id="text" class="form-control" placeholder="Puesto Solicitado">
-									</div>
-									<div class="col-c-mb-60 form-group">
-										<input type="file" class="custom-file-input button" id="validatedCustomFile">
-										<label class="custom-file-label" for="validatedCustomFile">Adjuntar CV en PDF</label>
-									</div>
-									<div class="row mt-1">
-										<div class="col-sm-12">
-											<div class="form-group text-right">
-												<button type="submit" id="contact_form_submit" name="contact_submit" class="btn theme_button" style="margin-bottom: 20px;">Enviar</button>
-											</div>
+					</div>
+					<form class="contact-form contact2 c-mb-20 animate" data-animation="pullUp" method="post" action="/">
+						<div class="row">
+							<div class="col-xs-12 col-sm-6">
+								<div class="col-c-mb-60 form-group has-placeholder">
+									<label for="name">Full Name
+										<span class="required">*</span>
+									</label>
+									<input type="text" aria-required="true" size="200" value="" name="your-name" id="name" class="form-control" placeholder="Nombre">
+								</div>
+								<div class="col-c-mb-60 form-group has-placeholder">
+									<label for="text">Phone number
+										<span class="required">*</span>
+									</label>
+									<input type="text" aria-required="true" size="200" value="" name="text" id="text" class="form-control" placeholder="Teléfono">
+								</div>
+								<div class="col-c-mb-60 form-group has-placeholder">
+									<label for="email">Email address
+										<span class="required">*</span>
+									</label>
+									<input type="email" aria-required="true" size="200" value="" name="your-email" id="email" class="form-control" placeholder="Email">
+								</div>
+								<div class="col-c-mb-60 form-group has-placeholder">
+									<label for="text">Job sector
+										<span class="required">*</span>
+									</label>
+									<input type="text" aria-required="true" size="200" value="" name="text" id="text" class="form-control" placeholder="Puesto Solicitado">
+								</div>
+								<div class="col-c-mb-60 form-group">
+									<input type="file" class="custom-file-input button" id="validatedCustomFile">
+									<label class="custom-file-label" for="validatedCustomFile">Adjuntar CV en PDF</label>
+								</div>
+								<div class="row mt-1">
+									<div class="col-sm-12">
+										<div class="form-group text-right">
+											<button type="submit" id="contact_form_submit" name="contact_submit" class="btn theme_button" style="margin-bottom: 20px;">Enviar</button>
 										</div>
 									</div>
 								</div>
-								<div class="col-xs-12 col-sm-6">
-									<div class="form-group has-placeholder">
-										<h4>ÁREAS DE TRABAJO</h4>
-										<p>
-											Revisa las vacantes que tenemos actualmente para ti, da clic <a href="#">aquí</a>
-										</p>
-										<p>
-											Si alguna es de tu interés o deseas estar en nuestra base de datos, envíanos tu currículum vitae al correo electrónico: 
-											<b><a href="mailto:soluciones.empresariales@nabese.com">soluciones.empresariales@nabese.com</a></b>
-										</p>
-										<ul class="list-styled">
-											<li>
-												Cosméticos
-											</li>
-											<li>
-												Textil
-											</li>
-											<li>
-												Madera
-											</li>
-											<li>
-												Química
-											</li>
-											<li>
-												Comercializadora
-											</li>
-											<li>
-												Alimenticia
-											</li>
-											<li>
-												Transportista / Automotriz
-											</li>
-											<li>
-												Metalmecánica
-											</li>
-											<li>
-												Aduana
-											</li>
-										</ul>
-									</div>
+							</div>
+							<div class="col-xs-12 col-sm-6">
+								<div class="form-group has-placeholder">
+									<h4>ÁREAS DE TRABAJO</h4>
+									<p>
+										Revisa las vacantes que tenemos actualmente para ti, da clic <a href="#">aquí</a>
+									</p>
+									<p>
+										Si alguna es de tu interés o deseas estar en nuestra base de datos, envíanos tu currículum vitae al correo electrónico: 
+										<b><a href="mailto:soluciones.empresariales@nabese.com">soluciones.empresariales@nabese.com</a></b>
+									</p>
+									<ul class="list-styled">
+										<li>
+											Cosméticos
+										</li>
+										<li>
+											Textil
+										</li>
+										<li>
+											Madera
+										</li>
+										<li>
+											Química
+										</li>
+										<li>
+											Comercializadora
+										</li>
+										<li>
+											Alimenticia
+										</li>
+										<li>
+											Transportista / Automotriz
+										</li>
+										<li>
+											Metalmecánica
+										</li>
+										<li>
+											Aduana
+										</li>
+									</ul>
 								</div>
 							</div>
 						</form>
